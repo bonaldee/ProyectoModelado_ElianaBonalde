@@ -1,16 +1,12 @@
-### Universidad Industrial de Santander
-### Maestría en Matemática Aplicada
-### Modelado Matemático
-___
-
 # Aprendiendo Machine Learning con Python
+___
 **Autor**: Eliana Bonalde. Código: 2218065. 
 
 **Colaborador**: Juan Carlos Basto Pineda. GitHub: @juan-pineda  
 ___
 
 > "Temo el dı́a en que la tecnologı́a sobrepase nuestra humanidad. El mundo solo tendrá una generación de idiotas." - Albert Einstein
-___
+
 
 ### Objetivos
 -  Dominar las diferentes técnicas de Machine Learning.
