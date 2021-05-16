@@ -5,7 +5,7 @@
 **Colaborador**: Juan Carlos Basto Pineda. GitHub: @juan-pineda  
 
 
-> "Temo el dı́a en que la tecnologı́a sobrepase nuestra humanidad. El mundo solo tendrá una generación de idiotas." - Albert Einstein
+> "Temo el día en que la tecnología sobrepase nuestra humanidad. El mundo solo tendrá una generación de idiotas." - Albert Einstein
 
 
 ### Objetivos
