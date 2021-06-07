@@ -1,0 +1,2032 @@
+points,variety,winery,price
+96,Cabernet Sauvignon,Heitz,235.0
+96,Tinta de Toro,Bodega Carmen Rodríguez,110.0
+96,Sauvignon Blanc,Macauley,90.0
+96,Pinot Noir,Ponzi,65.0
+95,Provence red blend,Domaine de la Bégude,66.0
+95,Tinta de Toro,Numanthia,73.0
+95,Tinta de Toro,Maurodos,65.0
+95,Tinta de Toro,Bodega Carmen Rodríguez,110.0
+95,Pinot Noir,Bergström,65.0
+95,Pinot Noir,Blue Farm,60.0
+95,Friulano,Borgo del Tiglio,80.0
+95,Pinot Noir,Patricia Green Cellars,48.0
+95,Pinot Noir,Patricia Green Cellars,48.0
+95,Tannat,Vignobles Brumont,90.0
+95,Pinot Noir,Domaine Serene,185.0
+95,Chardonnay,Bergström,90.0
+95,Cabernet Sauvignon,Hall,325.0
+95,Tempranillo,Valduero,80.0
+95,Malbec,Château Lagrézette,290.0
+95,Pinot Noir,Gary Farrell,75.0
+95,Rosé,Heitz,24.0
+95,Tempranillo Blend,Muga,79.0
+95,Tinta de Toro,Numanthia,220.0
+95,Chardonnay,Center of Effort,60.0
+95,Pinot Noir,Comartin,45.0
+94,Chardonnay,Kumeu River,57.0
+94,Pinot Noir,Bergström,62.0
+94,Pinot Noir,Ponzi,105.0
+94,Pinot Noir,Roar,60.0
+94,Syrah,Saviah,60.0
+90,Mavrud,Villa Melnik,15.0
+90,Chardonnay,Zepaltas,37.0
+90,Sangiovese,Abbadia Ardenga,
+90,Sparkling Blend,Bouvet-Ladubay,22.0
+90,Chardonnay,Buty,42.0
+90,Sangiovese,Carillon,135.0
+90,Rhône-style White Blend,Clos de L'Oratoire des Papes,60.0
+90,Sangiovese,Avignonesi,29.0
+90,Sangiovese,Casina di Cornia,23.0
+90,Red Blend,Castello di Monterinaldi,29.0
+90,Mencía,Don Bernardino,17.0
+90,Palomino,González Byass,26.0
+90,Petite Sirah,Huston,55.0
+90,Red Blend,Rignana,39.0
+90,Syrah,Tardieu-Laurent,69.0
+90,Red Blend,Vignavecchia,30.0
+90,Sangiovese,Banfi,90.0
+90,Cabernet Sauvignon,Brandlin,60.0
+90,Sangiovese,Brunelli Martoccia,50.0
+90,Cabernet Sauvignon,Canvasback,40.0
+90,Sangiovese,Capanne Ricci,100.0
+90,Chardonnay,Chartron et Trébuchet,68.0
+90,Sauvignon Blanc,Cherrier Frères,42.0
+90,Pinot Noir,Clement et Florian Berthier,28.0
+90,Chardonnay,De Loach,18.0
+90,Cabernet Sauvignon,DeLille,69.0
+90,Sauvignon Blanc,Domaine Vacheron,
+90,Riesling,Dr. Konstantin Frank,25.0
+90,Cabernet Sauvignon-Syrah,Efeste,30.0
+90,Red Blend,Fattoria di Magliano,60.0
+91,Malbec,Matias Riccitelli,30.0
+91,Pinot Noir,Moorooduc,36.0
+91,Malbec,Navarro Correas,25.0
+91,Chardonnay,Domaine Chenevières,45.0
+91,Portuguese Red,Herdade do Rocim,23.0
+91,Syrah,Jason-Stephens,36.0
+91,Chardonnay,Louis Max,38.0
+91,Cabernet Sauvignon,Michael Mondavi Family Estate,85.0
+91,Pinot Noir,Panther Creek,50.0
+91,Cabernet Sauvignon,Provenance Vineyards,60.0
+91,Cabernet Sauvignon,Raymond,85.0
+91,Pinot Noir,Red Car,45.0
+91,Nebbiolo,Silvano Bolmida,
+91,Pinot Gris,Trinity Vineyards,19.0
+91,Portuguese Red,Adega Cooperativa de Borba,15.0
+91,Pinot Noir,Archery Summit,54.0
+91,Chardonnay,Aubry,85.0
+91,Sauvignon Blanc,B Cellars,38.0
+91,Cabernet Sauvignon,B Side,28.0
+91,Nebbiolo,Bel Colle,75.0
+91,Pinot Noir,Bethel Heights,42.0
+91,Cabernet Sauvignon,Binyamina,25.0
+91,Nebbiolo,Ceste,
+91,Nebbiolo,Cascina Cucco,59.0
+91,Nebbiolo,Cascina del Monastero,85.0
+91,Nebbiolo,Cordero di Montezemolo,80.0
+91,Chardonnay,Domaine Gérard Duplessis,45.0
+91,Cabernet Sauvignon,Eagle Glen,22.0
+91,Pinot Noir,Eleven Eleven,65.0
+91,Meritage,Franciscan,50.0
+86,Cabernet Sauvignon,Belle Ambiance,10.0
+86,Baga,Adega de Cantanhede,12.0
+86,Glera,De Stefani,22.0
+86,Chardonnay,Parducci,13.0
+86,Portuguese Red,Quinta do Portal,10.0
+86,Malbec-Merlot,Rigal,14.0
+86,Chardonnay,The Naked Grape,18.0
+86,Cabernet Sauvignon,Tin Barn,36.0
+86,Merlot-Malbec,Georges Vigouroux,15.0
+86,Ugni Blanc-Colombard,Georges Vigouroux,10.0
+86,Viognier,Hawk Watch Winery,24.0
+86,Cabernet Sauvignon,Hestan,50.0
+86,Sangiovese,Il Grappolo,45.0
+86,Cabernet Sauvignon-Cabernet Franc,Ehret,48.0
+86,Moscato,EOS,20.0
+86,Pinot Grigio,Martinez & Martinez,17.0
+86,Cabernet Franc,Ironstone,12.0
+86,Chardonnay,Leaping Horse,10.0
+86,White Blend,Kitchen Sink,13.0
+86,Chardonnay,Kuleto Estate,45.0
+86,Portuguese Red,Wines & Winemakers,12.0
+86,Rosé,Zorzal,12.0
+86,Cabernet Sauvignon,Charles Krug,125.0
+86,Riesling,Millbrook,25.0
+86,Sauvignon Blanc,Waterkloof,20.0
+86,Malbec,Viñalba,15.0
+86,Monastrell,Casa de la Ermita,
+86,Rosé,Château Clément Termes,20.0
+86,Gamay,Château Coutinel,15.0
+86,Portuguese Red,Adega Cooperativa de Borba,7.0
+91,Pinot Noir,MacPhail,59.0
+91,Pinot Noir,Foursight,49.0
+91,Sparkling Blend,Goat Bubbles,42.0
+91,Chardonnay,Grgich Hills,93.0
+91,Pinot Noir,Navarro,32.0
+91,Pinot Noir,Navarro,20.0
+90,Zinfandel,Renwood,100.0
+90,Cabernet Sauvignon,Trinchero,50.0
+90,Tempranillo,Pagos del Rey,22.0
+90,White Blend,Biondi,45.0
+90,Greco,Cantine di Marzo,18.0
+90,Chardonnay,Alexander-Smith,45.0
+90,Barbera,Andis,26.0
+90,Chardonnay,Benziger,16.0
+90,Cabernet Sauvignon,Beaucanon,30.0
+90,Grenache,Brecon Estate,42.0
+90,Zinfandel,Peachy Canyon,38.0
+90,Rhône-style Red Blend,Three,48.0
+90,Tempranillo,Valdelacierva,17.0
+90,Rosé,Château de Lancyre,18.0
+90,Rosé,Château Suau,15.0
+90,Sauvignon Blanc,Clif Family,28.0
+90,Grenache,Santa Cruz Mountain Vineyard,25.0
+90,Chardonnay,Schmidt,26.0
+90,Albariño,Stephen Ross,24.0
+90,Pinot Noir,Goldeneye,55.0
+90,Zinfandel,Grgich Hills,36.0
+90,Albariño,Mar de Viñas,17.0
+90,Syrah,Kessler-Haak,40.0
+90,Malvasia Bianca,Larner,28.0
+89,Pinot Noir,Bomb,50.0
+89,White Blend,Hatzimichalis,24.0
+89,Sparkling Blend,Bohigas,17.0
+89,Assyrtiko,Boutari,21.0
+89,Malagouzia,Alpha Estate,18.0
+89,Carmenère,Viña Bisquertt,20.0
+89,Bordeaux-style Red Blend,Chateau Quattre,20.0
+89,Sangiovese,Ledger David,24.0
+89,Tempranillo,CVNE,44.0
+89,Red Blend,Estampa,19.0
+89,Bordeaux-style Red Blend,Foxen 7200,42.0
+89,Pinot Noir,Irvine Family Vineyards,35.0
+89,Tempranillo Blend,Marqués de Cáceres,44.0
+89,Syrah,Matchbook,16.0
+89,Viognier,Eberle,23.0
+89,Pinot Noir,Silvan Ridge,36.0
+89,Red Blend,Tenuta degli Dei,25.0
+89,Red Blend,Poggio Mandorlo,22.0
+89,Touriga Nacional,Quinta das Carvalhas,20.0
+89,Chardonnay,Occasio,25.0
+89,Pinot Noir,Sanford,42.0
+89,Cabernet Sauvignon-Cabernet Franc,Santa Alba,30.0
+89,Agiorgitiko,Boutari,17.0
+89,Pinot Noir,Foursight,49.0
+89,Rhône-style Red Blend,Ogier,16.0
+89,Tinta de Toro,Pagos del Rey,30.0
+89,Sangiovese,Altesino,40.0
+89,Red Blend,Cabreo,57.0
+89,Cabernet Sauvignon,Cameron Hughes,29.0
+89,Red Blend,Casa Donoso,61.0
+88,Chardonnay,Rodney Strong,25.0
+88,Syrah,San Simeon,25.0
+88,Pinot Noir,Siduri,49.0
+88,Picpoul,Syncline,20.0
+88,Bordeaux-style Red Blend,Piattelli,26.0
+88,Bordeaux-style Red Blend,Pondera,34.0
+88,Zinfandel,Tobin James,38.0
+88,Zinfandel,Tobin James,38.0
+88,Godello,Valdesil,25.0
+87,Red Blend,Jaspi,22.0
+87,Malbec,Tupun,15.0
+87,Bordeaux-style Red Blend,Château Beauregard Lagupeau,20.0
+87,Bordeaux-style Red Blend,Château du Taillan,25.0
+87,Bordeaux-style Red Blend,Château la Haye,20.0
+87,Bordeaux-style Red Blend,Château Lalande Mausse,20.0
+87,Bordeaux-style Red Blend,Château Magnol,25.0
+87,Chardonnay,Grand Pacific,10.0
+87,Malbec,Hamilton,18.0
+87,Chardonnay,Heron Hill,18.0
+87,Riesling,Heron Hill,14.0
+87,Riesling,Fox Run,14.0
+87,Cabernet Franc,Glenora,40.0
+87,Bordeaux-style Red Blend,Château Roc Taillade,18.0
+87,Bordeaux-style Red Blend,Château Sénéjac,20.0
+87,Gewürztraminer,Chateau Ste. Michelle,10.0
+87,Merlot,Castle Rock,11.0
+87,Cabernet Sauvignon,Dussek Family Cellars,36.0
+87,Cabernet Franc,Serenity,20.0
+87,Grenache,Sol Stone,32.0
+87,Sparkling Blend,Sumarroca,18.0
+93,Portuguese Red,Poças,55.0
+93,Nebbiolo,Rizzi,49.0
+93,Zinfandel,Robert Biale,50.0
+93,Nebbiolo,Sottimano,58.0
+93,Riesling,Domaine Jean-Luc Mader,39.0
+93,Riesling,Domaine Zind-Humbrecht,65.0
+93,Syrah-Grenache,Bernard Magrez,35.0
+93,Nebbiolo,Borgogno,80.0
+93,Riesling,Domaine François Schmitt,42.0
+93,Riesling,Gustave Lorentz,61.0
+93,G-S-M,Force Majeure,58.0
+93,Mourvèdre,Anglim,38.0
+93,Riesling,Domaine Ostertag,48.0
+93,Zinfandel,Robert Biale,50.0
+93,Nebbiolo,Sottimano,58.0
+93,Bordeaux-style White Blend,Château Raymond-Lafon,120.0
+93,Syrah,Red Car,50.0
+93,Cabernet Sauvignon,Force Majeure,80.0
+93,Syrah,Mulvane Wine Co.,40.0
+93,Portuguese Red,Caves Aliança,41.0
+93,Cabernet Sauvignon,Double Canyon,48.0
+93,Cabernet Sauvignon,Diamond Creek,200.0
+93,Petit Verdot,Côtes de Ciel,39.0
+93,Cabernet Sauvignon,Sparkman,62.0
+93,Nebbiolo,Punset,43.0
+92,Riesling,Domaine Ehrhart,35.0
+92,Riesling,Domaine Zinck,48.0
+92,Riesling,Domaine Zind-Humbrecht,55.0
+92,Portuguese Red,Dona Maria-Júlio Bastos,40.0
+92,Nebbiolo,Fontanafredda,69.0
+88,Bordeaux-style Red Blend,Château Chantemerle,16.0
+88,Bordeaux-style White Blend,Château Chaubinet,16.0
+88,Bordeaux-style White Blend,Château Ferran,
+88,Bordeaux-style Red Blend,Château Fongalan,15.0
+88,Bordeaux-style White Blend,Château Mezain,13.0
+88,Chardonnay,Clos du Val,28.0
+88,Pinot Noir,Coeur de Terre,36.0
+88,Rosé,Cramele Halewood,9.0
+88,Chardonnay,Daniel Gehrs,24.0
+88,Rhône-style White Blend,Davis Family,30.0
+88,Merlot,Decoy,25.0
+88,Nebbiolo,Reversanti,34.0
+88,Pinot Noir,Roco,60.0
+88,Pinot Noir,Saintsbury,54.0
+88,Muscat,Silvan Ridge,15.0
+88,Nebbiolo,Silvano Bolmida,56.0
+88,Sauvignon Blanc,St. Supéry,20.0
+88,Pinot Noir,Testarossa,61.0
+88,Nebbiolo,Trediberri,46.0
+88,Tempranillo,Val de Los Frailes,30.0
+88,Tempranillo Blend,Yuntero,17.0
+88,Chenin Blanc-Chardonnay,Musset-Roullier,
+88,Cabernet Sauvignon-Merlot,Oso Libre,40.0
+88,Red Blend,Oso Libre,39.0
+88,Nebbiolo,Palladino,49.0
+88,Sauvignon Blanc,Pierre Prieur et Fils,23.0
+88,Pinot Grigio,Bargetto,16.0
+88,Mourvèdre,Adelaida,32.0
+88,Chardonnay,Alma Rosa,18.0
+88,Cabernet Sauvignon,Lamadrid,15.0
+92,Pinot Noir,Domaine de Bellene,92.0
+92,Chardonnay,Domaine Vincent Girardin,94.0
+92,Chardonnay,Failla,58.0
+92,Rhône-style Red Blend,Gallica,50.0
+92,Sparkling Blend,J Vineyards & Winery,48.0
+92,Pinot Noir,Les Voleurs,32.0
+92,Pinot Bianco,Nals Margreid,27.0
+92,Alvarinho,Provam,35.0
+92,Portuguese White,Quinta Nova de Nossa Senhora do Carmo,95.0
+92,Pinot Noir,Ryan Cochrane,43.0
+92,Garganega,Suavia,33.0
+92,Sauvignon,Cantina Terlano,60.0
+92,Malbec,Château du Cèdre,
+92,Bordeaux-style Red Blend,Château Haut Selve,30.0
+92,Cabernet Sauvignon,Communication Block,100.0
+92,Syrah,Baker & Brain,35.0
+91,Chardonnay,Domaine de Bellene,60.0
+91,Bordeaux-style Red Blend,Domaine D'en Ségur,16.0
+91,Chardonnay,Domaine Sangouard-Guyot,40.0
+91,Pinot Noir,Elk Cove,60.0
+91,Pinot Noir,Evening Land,100.0
+91,Touriga Nacional,Herdade de São Miguel,18.0
+91,Pinot Gris,Iris Vineyards,16.0
+91,Syrah,Jack Creek,42.0
+91,Gros and Petit Manseng,Lionel Osmin & Cie,
+91,Pinot Noir,Brick & Mortar,20.0
+91,Sauvignon,Colterenzio,25.0
+91,Pinot Grigio,Colterenzio,23.0
+91,Pinot Noir,Cuvaison,38.0
+91,Zinfandel,De Loach,32.0
+94,Syrah,Saviah,60.0
+94,Riesling,Smith-Madrone,30.0
+94,Red Blend,Speri,85.0
+94,Riesling,Stony Hill,30.0
+94,Pinot Noir,Testarossa,65.0
+94,Chardonnay,Kumeu River,57.0
+94,Pinot Noir,Bergström,90.0
+94,Pinot Noir,Black Kite,85.0
+94,Pinot Noir,Blue Farm,70.0
+94,Pinot Noir,Domaine Serene,70.0
+94,Pinot Noir,Gary Farrell,60.0
+94,Garganega,Gini,38.0
+94,Garganega,Gini,29.0
+94,Cabernet Sauvignon,Parallel,155.0
+94,Pinot Noir,Patricia Green Cellars,48.0
+94,Cabernet Sauvignon,Sbragia,95.0
+94,Sparkling Blend,Schramsberg,80.0
+94,Pinot Noir,Trisaetum,49.0
+94,Tannat-Cabernet,Vignobles Brumont,35.0
+94,Syrah,Waters,50.0
+94,Provence red blend,Domaine de la Bégude,44.0
+94,Tempranillo Blend,Bodega Classica,68.0
+94,Rosé,Château Vignelaure,20.0
+94,Red Blend,Matarromera,
+94,Cabernet Sauvignon,Pellet Estate,95.0
+94,Provence red blend,Domaine de la Bégude,44.0
+94,Cabernet Sauvignon,Pascual Toso,50.0
+94,Rosé,Château d'Esclans,100.0
+94,Malbec,Château Lagrézette,70.0
+94,Chardonnay,Ponzi,63.0
+91,Nebbiolo,Fratelli Alessandria,75.0
+91,Riesling,Friedrich-Wilhelm-Gymnasium,23.0
+91,Cabernet Sauvignon,Galerie,50.0
+91,Albariño,Granbazán,22.0
+91,Sauvignon Blanc,Grieve,45.0
+91,Alicante Bouschet,Herdade do Rocim,130.0
+91,Rhône-style White Blend,Jada Vineyard & Winery,38.0
+91,Pinot Noir,La Crema,30.0
+91,Syrah,Lawer,22.0
+91,Nebbiolo,Le Strette,
+91,Nebbiolo,Marchesi di Barolo,90.0
+91,Cabernet Sauvignon,Michael Mondavi Family Estate,60.0
+91,Nebbiolo,Oddero,115.0
+91,Pinot Noir,Small Vines,55.0
+91,Rhône-style Red Blend,Terras de Alter,30.0
+91,Aragonês,Terras de Alter,14.0
+91,Chardonnay,Testarossa,48.0
+91,Chardonnay,Thomas George,40.0
+91,Silvaner,Thörle,39.0
+91,Nebbiolo,Vite Colte,60.0
+91,Chardonnay,Wedell Cellars,50.0
+91,Pinot Noir,Winderlea,48.0
+91,Chardonnay,A.R. Lenoble ,54.0
+91,Portuguese Red,Adega Cooperativa de Borba,42.0
+91,Sparkling Blend,Argyle,50.0
+91,Cabernet Sauvignon,Bazelet HaGolan,40.0
+91,Chardonnay,Bernardus,40.0
+91,Pinot Noir,Big Table Farm,42.0
+91,Nebbiolo,Icardi,85.0
+91,Tempranillo,Matarromera,32.0
+90,Red Blend,Le Vigne,41.0
+90,Ugni Blanc,Paix Sur Terre,27.0
+90,Grüner Veltliner,Reustle,29.0
+90,Pinot Noir,Domaine Bott-Geyl,33.0
+90,Pinot Noir,Domaine Faiveley,70.0
+90,Pinot Noir,Pike Road,19.0
+90,Frappato,Planeta,22.0
+90,Lemberger,Schnaitmann,25.0
+90,Sylvaner,Domaine Ostertag,27.0
+90,Chasselas,Domaine Schoffit,22.0
+90,Alsace white blend,Domaine Zind-Humbrecht,30.0
+90,Pinot Gris,Firesteed,15.0
+90,Pinot Noir,The Eyrie Vineyards,45.0
+90,Pinot Noir,Albert Bichot,80.0
+90,White Blend,Baglio del Cristo di Campobello,
+90,White Blend,Occhipinti,
+90,Albariño,J. Scott Cellars,18.0
+90,Greco,Villa Raiano,19.0
+90,Riesling,Dr. H. Thanisch (Erben Thanisch),31.0
+90,Cabernet Sauvignon,Hahn,15.0
+90,Cabernet Sauvignon,Lyeth,15.0
+90,Merlot,Napa Cellars,24.0
+90,Red Blend,Paraduxx,80.0
+90,Tempranillo,Quintana de Cue,35.0
+90,Früburgunder,Winzergenossenschaft Mayschoss-Altenahr,40.0
+90,Tempranillo,Casa del Valle,28.0
+90,Cabernet Sauvignon,Freemark Abbey,50.0
+90,Cabernet Sauvignon,Joleté,28.0
+90,Rhône-style Red Blend,Prospect 772,36.0
+90,Cabernet Sauvignon,Boatique,40.0
+90,Chardonnay,Hearst Ranch,50.0
+90,Cabernet Sauvignon,Hunt Cellars,75.0
+90,Sangiovese,La Fiorita,60.0
+90,Malbec,Merry Cellars,46.0
+90,Bordeaux-style Red Blend,Mission Hill,70.0
+90,Albariño,Palacio de Fefiñanes,26.0
+90,Pinot Noir,Pascal & Nicolas Reverdy,
+90,Sangiovese,Piccini,60.0
+90,Sangiovese,Pietranera,75.0
+90,White Blend,Purcari,32.0
+90,Sangiovese,Renieri,95.0
+90,Sangiovese,Podere Scopetone,60.0
+90,Sangiovese,Sesta di Sopra,70.0
+90,White Blend,Carlson,20.0
+90,Rhône-style Red Blend,Château Pégau,27.0
+90,Rhône-style Red Blend,Kirkland Signature,20.0
+90,Cabernet Sauvignon,Medlock Ames,75.0
+90,Sauvignon Blanc,Passaggio,28.0
+90,Chardonnay,Patland,60.0
+90,Chardonnay,Trig Point,22.0
+90,White Blend,Valquejigoso,49.0
+90,Kekfrankos,Weninger,35.0
+90,Sangiovese,Tenuta di Sesta,90.0
+90,Chardonnay,Terlato,30.0
+90,Cabernet Sauvignon,The Calling,35.0
+90,Rhône-style Red Blend,Westwood,38.0
+90,Tempranillo,Fenestra,22.0
+90,Sangiovese,Castello di Bossi,30.0
+90,Red Blend,Cecchi,32.0
+90,Sangiovese,Cafaggio,35.0
+87,Cabernet Sauvignon,Dussek Family Cellars,36.0
+87,Zinfandel,League of Rogues,30.0
+87,Cabernet Franc,Serenity,20.0
+87,Grenache,Sol Stone,32.0
+87,Sparkling Blend,Sumarroca,18.0
+87,Tempranillo,Trus,27.0
+87,Sauvignon Blanc,Va Piano,20.0
+87,Bordeaux-style Red Blend,Les Hauts de Tousquiron,
+87,Chardonnay,McGrail,30.0
+87,Cabernet Sauvignon,Michael David,20.0
+87,Cabernet Sauvignon,3 Horse Ranch Vineyards,23.0
+87,Rhône-style White Blend,Cairdeas,22.0
+87,Sangiovese,Citille di Sopra,75.0
+87,Sangiovese,Castello Romitorio,98.0
+87,Bordeaux-style White Blend,Château de Portets,
+87,Cabernet Sauvignon,Villa San Juliette,20.0
+87,Chardonnay,Hat Ranch,22.0
+87,White Blend,Huston,16.0
+87,Vermentino,Fattoria di Magliano,28.0
+87,Sherry,Bodegas Dios Baco S.L.,25.0
+87,Red Blend,Ceralti,17.0
+87,Riesling,Coiled,17.0
+87,Tempranillo,Condado de Oriza,15.0
+87,Sherry,Delgado Zuleta,16.0
+87,Tempranillo Blend,Señorío de Sotillo,15.0
+87,Tempranillo,Vale,38.0
+87,Red Blend,Portal del Montsant,28.0
+87,Sangiovese,La Collina dei Lecci,52.0
+87,Sangiovese,Fattoria La Lecciaia,58.0
+87,Sangiovese,Ferrero,60.0
+86,Rosé,Colinas do Douro,15.0
+86,White Blend,Latium di Morini,15.0
+86,Chardonnay,Lawer,26.0
+86,Syrah,Hawk Watch Winery,32.0
+86,Portuguese Red,Falua,10.0
+86,Sauvignon Blanc,Finca Las Moras,10.0
+86,Moscato,The Naked Grape,18.0
+86,Portuguese White,Ramos-Pinto,12.0
+86,Rosé,Obelisco Estate,35.0
+86,Aglianico,Orsi Family Vineyards,34.0
+86,Malbec,Bota Box,23.0
+86,Sauvignon Blanc,Bouchard Finlayson,20.0
+86,Cabernet Sauvignon,Winc,31.0
+86,Viognier,Cass,24.0
+86,Merlot,Castle Rock,12.0
+86,Pinot Noir,Angeline,18.0
+86,White Blend,Domaine de Lamothe,10.0
+86,Malbec,Don Miguel Gascón,15.0
+86,Chardonnay,Eberle,24.0
+86,Torrontés,Finca la Malena,14.0
+86,Sauvignon Blanc,Firestone,14.0
+86,Portuguese Red,Companhia das Quintas,15.0
+86,Primitivo,DeLorimier,38.0
+86,Touriga Nacional,Global Wines,13.0
+86,Pinot Noir,Guenoc,12.0
+86,Red Blend,Hawk Watch Winery,32.0
+86,Semillon-Sauvignon Blanc,Lionel Osmin & Cie,15.0
+86,Barbera,Orsi Family Vineyards,28.0
+86,Portuguese Red,Quinta do Arrobe,
+86,Portuguese Rosé,Quinta Nova de Nossa Senhora do Carmo,30.0
+89,Pinot Noir,Foursight,49.0
+89,Agiorgitiko,Boutari,17.0
+89,Grenache-Syrah,Les Vignobles Foncalieu,11.0
+89,Sangiovese,Marchesi de' Frescobaldi,43.0
+89,Red Blend,Domaine Rotier,19.0
+89,White Blend,Domaine Rotier,28.0
+89,Riesling,Dr. Pauly Bergweiler,26.0
+89,Prié Blanc,Cave du Vin Blanc de Morgex et de la Salle,
+89,Chardonnay,Aubichon Cellars,35.0
+89,Bordeaux-style Red Blend,Boëté,30.0
+89,Cabernet Sauvignon,Castellare di Castellina,55.0
+89,Negrette,Château Bouissel,
+89,Pinot Noir,Anam Cara,46.0
+89,Pinot Noir,Carden,50.0
+89,Red Blend,Carhartt Vineyard,43.0
+89,Syrah,Quinta da Romaneira,45.0
+89,Syrah,Rideau,39.0
+89,Red Blend,Tenuta di Trecciano,30.0
+89,Cabernet Sauvignon,Terre del Marchesato,45.0
+89,Red Blend,Vega Escal,23.0
+89,Grenache-Syrah,M. Chapoutier,15.0
+89,Zinfandel,Epoch Estate Wines,65.0
+89,Red Blend,Estampa,19.0
+89,Syrah,Ledger David,35.0
+89,Zinfandel,Lone Madrone,60.0
+89,Pinot Noir,Kelley Fox,44.0
+89,Albariño,Mar de Frades,25.0
+89,Red Blend,Pratesi,30.0
+89,Tempranillo,Maitea,12.0
+89,Sparkling Blend,Castellroig,18.0
+92,Chardonnay,Martin Ray,30.0
+92,Riesling,Boeckel,
+92,Portuguese Red,Castello d'Alba,23.0
+92,Zinfandel,Robert Biale,45.0
+92,Bordeaux-style Red Blend,Sequoia Grove,125.0
+92,Cabernet Sauvignon,VinRoc,98.0
+92,Red Blend,Ferguson Crest,40.0
+92,Riesling,Cave Spring,17.0
+92,Chardonnay,Sanguis,60.0
+92,Portuguese Red,Quinta da Romaneira,70.0
+92,Chardonnay,Ram's Gate,68.0
+92,Baga,Luis Pato,40.0
+92,Chardonnay,Array,32.0
+92,Syrah,Vie Winery,45.0
+92,Chardonnay,Woodward Canyon,66.0
+92,Riesling,Domaine Loew,29.0
+92,Riesling,Hugel,63.0
+92,Chardonnay,Lafond,32.0
+92,Chardonnay,Lynmar,55.0
+92,Furmint,Royal Tokaji,16.0
+92,Nebbiolo,Ressia,45.0
+92,Viognier,Rock Wall,20.0
+92,Nebbiolo,Piazzo Armando,50.0
+92,Bordeaux-style Red Blend,Château Marsau,18.0
+92,Portuguese Red,Herdade do Rocim,23.0
+92,Riesling,Jean Becker,
+92,Chardonnay,Byron,32.0
+92,Bordeaux-style Red Blend,Caliterra,30.0
+92,Viognier,Force Majeure,35.0
+92,Chardonnay,Fort Ross,44.0
+90,Cabernet Franc,Easton,24.0
+90,Zinfandel,Easton,20.0
+90,Riesling,Kirsten,22.0
+90,Pinot Noir,Labouré-Roi,50.0
+90,Pinot Noir,Labouré-Roi,45.0
+90,Pinot Noir,MacMurray Ranch,23.0
+90,Pinot Noir,MacPhail,49.0
+90,Riesling,Max Ferd. Richter,17.0
+90,Carignane,McCay Cellars,35.0
+90,White Blend,Baglio del Cristo di Campobello,
+90,Chardonnay,Chanson Père et Fils,59.0
+90,Sylvaner,Domaine Barmès-Buecher,24.0
+90,Pinot Noir,Domaine Collotte,
+90,White Blend,Domaine Rieflé-Landmann,20.0
+90,Pinot Blanc,Domaine Weinbach,20.0
+90,Pinot Gris,Elizabeth Chambers,18.0
+90,Nero d'Avola,Occhipinti,
+90,Zinfandel,Ordaz Family Wines,42.0
+90,Moscato,Planeta,22.0
+90,Assyrtiko,Santo Wines,20.0
+90,Pinot Noir,Soléna,48.0
+90,Chardonnay,Stags' Leap Winery,30.0
+90,Frappato,Terre di Giurfo,
+90,Cabernet Sauvignon,Boatique,40.0
+90,Tempranillo,Bodegas Muriel,20.0
+90,Tempranillo Blend,Burgo Viejo,17.0
+90,Merlot,Chacewater,22.0
+90,Riesling,Dr. H. Thanisch (Erben Thanisch),31.0
+90,Cabernet Sauvignon,Hahn,15.0
+90,Cabernet Sauvignon,Lyeth,15.0
+94,Pinot Noir,The Calling,62.0
+94,Pinot Noir,Trisaetum,49.0
+94,Red Blend,Vignobles Brumont,25.0
+94,Cabernet Sauvignon,Frank Family,95.0
+94,Chardonnay,Ancien,55.0
+94,Chardonnay,Barden,48.0
+94,Friulano,Borgo del Tiglio,35.0
+94,Tannat-Cabernet,Château de Gayon,40.0
+94,Pinot Noir,Demetria,68.0
+94,Pinot Noir,Domaine Serene,90.0
+93,Malbec-Merlot,Château Lagrézette,25.0
+93,Pinot Noir,Cherry Pie,60.0
+93,St. Laurent,Johanneshof Reinisch,21.0
+93,Bordeaux-style Red Blend,21 Grams,125.0
+93,Cabernet Sauvignon,Aperture,85.0
+93,Pinot Noir,Babcock,60.0
+93,Tempranillo,Lleiroso,64.0
+93,Blauburgunder,Meinklang,19.0
+93,Blaufränkisch,Muhr-Van der Niepoort,25.0
+93,Syrah,Nicora,55.0
+93,Chardonnay,Parallel,58.0
+93,Pinot Noir,Patricia Green Cellars,48.0
+93,Zinfandel,Renwood,40.0
+93,Chardonnay,Rusack,60.0
+93,Cabernet Sauvignon,Sbragia,120.0
+93,Pinot Noir,Schwarz Wein,
+93,Cabernet Sauvignon,The Bridge,100.0
+93,Zinfandel,Harney Lane,34.0
+93,Red Blend,Pago de Carraovejas,91.0
+93,Provence red blend,Domaine de la Bégude,36.0
+91,Zinfandel,Rock Wall,40.0
+91,Chardonnay,Thistle,20.0
+91,Cabernet Sauvignon,Vitesse,55.0
+91,Portuguese White,Wines & Winemakers,19.0
+91,Pinot Grigio,Nals Margreid,26.0
+91,Pinot Noir,Beauregard,45.0
+91,Riesling,Domdechant Werner,36.0
+91,Riesling,Bischöfliche Weingüter Trier,23.0
+91,Riesling,Schloss Vollrads,25.0
+91,Scheurebe,Bürgermeister Willi Schweinhardt,21.0
+91,Riesling,C.H. Berres,28.0
+91,White Blend,Franz Haas,41.0
+91,Pinot Gris,Hawks View,26.0
+91,Portuguese Red,Herdade do Rocim,
+91,Chardonnay,J Vineyards & Winery,28.0
+91,Pinot Noir,L. Tramier & Fils,
+91,Chardonnay,La Follette,38.0
+91,Red Blend,Laird,44.0
+91,Pinot Noir,Les Voleurs,45.0
+91,Riesling,Dr. Heidemanns-Bergweiler,25.0
+91,Riesling,Dr. Heidemanns-Bergweiler,38.0
+91,Riesling,Dr. Loosen,22.0
+91,Riesling,Dr. Pauly Bergweiler,26.0
+91,Riesling,Bischöfliche Weingüter Trier,23.0
+91,Riesling,Bollig-Lehnert,23.0
+91,Sauvignon Blanc,Bernardus,50.0
+91,Sauvignon,Cantina Produttori San Michele Appiano,21.0
+91,Bordeaux-style Red Blend,Château Devise d'Ardilley,25.0
+91,Portuguese Red,Dão Sul,16.0
+91,Chardonnay,Domaine de Bellene,60.0
+90,Cabernet Sauvignon,Louis M. Martini,38.0
+90,Pinot Noir,Riposte,20.0
+90,Nebbiolo,Virna Borgogno,75.0
+90,Portuguese Red,Adega de Favaios,33.0
+90,Nebbiolo,Alessandro Rivetto,75.0
+90,Bordeaux-style Red Blend,Ascension Cellars,64.0
+90,Gewürztraminer,Balletto,18.0
+90,Nebbiolo,Ca' Viola,75.0
+90,Nebbiolo,Cantina del Nebbiolo,30.0
+90,Nebbiolo,Cascina Ballarin,42.0
+90,Barbera,Cascina Liuzzi,18.0
+90,Albariño,Castro Brey,20.0
+90,Pinot Noir,Chamisal Vineyards,40.0
+90,Malbec,Château Saint-Didier-Parnac,25.0
+90,Portuguese White,Conceito Vinhos,19.0
+90,Gewürztraminer,David Hill,18.0
+90,Rhône-style White Blend,Davis Family,30.0
+90,Red Blend,Domaine d'Arton,13.0
+90,Chardonnay,Domaine Gérard Duplessis,45.0
+90,Riesling,Dr. Heidemanns-Bergweiler,30.0
+90,Cabernet Sauvignon,Eleven Eleven,111.0
+90,Barbera,Elvio Cogno,35.0
+90,Tempranillo,Folin Cellars,32.0
+90,Nebbiolo,Franco M. Martinetti,88.0
+90,Pinot Noir,King Estate,57.0
+90,Grenache,Kobler,34.0
+90,Chardonnay,Left Coast Cellars,24.0
+90,Nebbiolo,Manzone Fratelli,45.0
+90,Nebbiolo,Marziano Abbona,74.0
+90,Nebbiolo,Matteo Correggia,
+88,Pinot Noir,Giant Steps,42.0
+88,Sauvignon Blanc,Domaine Gérard Fiou,27.0
+88,Malbec,Domaine Jean Bousquet,25.0
+88,Sauvignon Blanc,Domaine Thomas & Fils,35.0
+88,Meritage,Dry Creek Vineyard,45.0
+88,Grenache,Epiphany,30.0
+88,Bordeaux-style Red Blend,Etienne de Tauriac,26.0
+88,Chardonnay,Fog Crest,39.0
+88,Sauvignon Blanc,Francis Blanchet,25.0
+88,Nebbiolo,Germano Angelo,80.0
+88,Pinot Noir,Goldeneye,55.0
+88,Gewürztraminer,Gundlach Bundschu,22.0
+88,Sauvignon Blanc,Jean-Max Roger,28.0
+88,Pinot Noir,Laetitia,25.0
+88,Pinot Noir,Le Cadeau,48.0
+88,Viognier,Lucas & Lewellen,19.0
+88,White Blend,Bibich,19.0
+88,Nebbiolo,Boroli,77.0
+88,Chardonnay,Chamisal Vineyards,18.0
+88,Bordeaux-style White Blend,Château de Cruzeau,25.0
+88,Bordeaux-style White Blend,Château Lafargue,
+88,Bordeaux-style White Blend,Château le Sartre,
+88,Bordeaux-style White Blend,Château Roc de Minvielle,18.0
+88,Merlot,Chelsea Goldschmidt,18.0
+88,Bordeaux-style White Blend,Clos Marsalette,
+88,Pinot Noir,Coeur de Terre,65.0
+88,Chardonnay,Cuvaison,25.0
+88,Pinot Noir,Cuvaison,48.0
+88,Pinot Noir,Domaine de l'Hermitage,20.0
+88,Tempranillo,Venta Morales,11.0
+90,Cabernet Sauvignon,Korbin Kameron,55.0
+90,Sparkling Blend,Llopart,35.0
+90,Mavrud,Edoardo Miroglio,26.0
+90,Chardonnay,Eric Kent,46.0
+90,Pinot Noir,Fess Parker,55.0
+90,Pinot Noir,Fess Parker,30.0
+90,Cabernet Franc,Hazlitt 1852 Vineyards,25.0
+90,Pinot Noir,Inspire Moore,27.0
+90,Syrah,Kevin White,28.0
+90,Sangiovese,La Magia,62.0
+90,Chardonnay,La Pitchoune,48.0
+90,Sangiovese,Lazzeretti,80.0
+90,Sauvignon Blanc,Margerum,36.0
+90,Red Blend,MCV,48.0
+90,Chardonnay,Merry Edwards,60.0
+90,Riesling,Mission Hill,24.0
+90,Cabernet Franc,Monticello Vineyards,42.0
+90,Sangiovese,Niner,45.0
+90,Zinfandel,Ousterhout,39.0
+90,Sauvignon Blanc,Ousterhout,25.0
+90,Bordeaux-style Red Blend,Plumb Cellars,40.0
+90,Ribolla Gialla,Principiano Ferdinando,40.0
+90,Charbono,Sarah's Vineyard,40.0
+90,Sangiovese,SassodiSole,60.0
+90,Pinot Gris,Tinhorn Creek,19.0
+90,Cabernet Sauvignon,V. Sattui,85.0
+90,Palomino,González Byass,26.0
+90,Red Blend,Il Brunone,25.0
+90,Tempranillo,Matchbook,15.0
+90,Rosé,Prieuré de Montézargues,24.0
+86,Red Blend,The Naked Grape,18.0
+86,Sauvignon Blanc,Vergelegen,35.0
+86,Torrontés,Via Revolucionaria,26.0
+86,Malbec-Cabernet Sauvignon,Bodega Las Cañitas,39.0
+86,Sauvignon Blanc,Fat Barrel,11.0
+85,Red Blend,Rubino Estates Winery,15.0
+85,Rosé,Château Bélingard,9.0
+Les Petits Clément Merlot Duras,,Red Blend,85
+85,Cabernet Sauvignon,Jack's House,15.0
+85,Pinot Noir-Gamay,Joseph Drouhin,18.0
+85,Pinot Nero,Famiglia Cielo,9.0
+85,Portuguese Red,Fiuza,11.0
+85,Rosé,Georges Vigouroux,12.0
+85,Malbec,Rigal,14.0
+85,Sauvignon Blanc,Long Neck,10.0
+85,Cabernet Sauvignon,Mirassou,12.0
+85,Merlot,The Naked Grape,18.0
+85,Malbec,The Seeker,14.0
+85,Garganega,Cantina di Gambellara,10.0
+85,White Blend,Chakana,13.0
+85,Portuguese Red,Boas Quintas,10.0
+85,Chardonnay,Bouchard Finlayson,20.0
+85,Bordeaux-style Red Blend,Zorzal,30.0
+85,Red Blend,Vivanco,50.0
+85,Sauvignon Blanc,Graham Beck,16.0
+85,Rhône-style Red Blend,Les Vignobles Foncalieu,11.0
+85,Sparkling Blend,Cruzat,15.0
+85,Cabernet Sauvignon,Spann Vineyards,65.0
+85,Chardonnay,Vini,9.0
+85,Chardonnay,Carmel,30.0
+89,Malbec,Château Bovila,
+89,Red Blend,Bernard Magrez,26.0
+89,Chardonnay,Hoopla,20.0
+89,Riesling,Kaena,25.0
+89,Chardonnay,La Fenêtre,36.0
+89,Gros Manseng,Laudet,14.0
+89,Tempranillo,Longoria,36.0
+89,Red Blend,Nittardi,23.0
+89,Petit Verdot,Opaque,30.0
+89,Red Blend,OT,28.0
+89,Cabernet Sauvignon,Primus,20.0
+89,G-S-M,Prospect 772,36.0
+89,Pinot Noir,Provincial Vineyards,45.0
+89,Pinot Gris,Raptor Ridge,20.0
+89,Pinot Noir,Ritual,20.0
+89,Red Blend,San Fabiano Calcinaia,45.0
+89,Syrah,San Pedro,20.0
+89,Pinot Noir,Soléna,28.0
+89,Syrah,Sunstone,42.0
+89,Cabernet Franc,Tenuta Sette Cieli,110.0
+89,Cabernet Sauvignon,Viu Manent,25.0
+89,Riesling,A to Z,14.0
+89,Rosé,Abacela,18.0
+89,Red Blend,Aver Family Vineyards,39.0
+89,Red Blend,Castellare di Castellina,90.0
+89,Portuguese Red,Caves Velhas,18.0
+89,Portuguese Red,Caves Velhas,7.0
+89,Portuguese Red,Caves Velhas,17.0
+89,Sauvignon Blanc,Claro,17.0
+89,White Blend,Clos Troteligotte,20.0
+87,Sangiovese,Corte dei Venti,50.0
+87,Sangiovese,Tenuta Vitanza,87.0
+87,Cabernet Sauvignon,Two Mountain,28.0
+87,Sangiovese,Tenuta Vitanza,
+87,Bordeaux-style Red Blend,Ott & Murphy,36.0
+87,Bordeaux-style Red Blend,Château Gazin Rocquencourt,
+87,Bordeaux-style White Blend,Château Haut Selve,
+87,Bordeaux-style Red Blend,Château Larrivet Haut-Brion,35.0
+87,Bordeaux-style Red Blend,Château Luchey-Halde,
+87,Bordeaux-style Red Blend,Château Peyfaures,30.0
+87,Bordeaux-style Red Blend,Highway 12,28.0
+87,Red Blend,I Greppi,20.0
+87,Primitivo,Drytown,18.0
+87,Red Blend,Entropy Cellars,32.0
+87,Merlot,Chateau Ste. Michelle,28.0
+87,Bordeaux-style Red Blend,Château Taffard de Blaignan,
+87,Syrah,College Cellars,26.0
+87,Sauvignon Blanc,Coquerel Family Wine Estates,32.0
+87,Cabernet Sauvignon,Bogle,11.0
+87,Rhône-style White Blend,Cairdeas,26.0
+87,Syrah,Cameron Hughes,19.0
+87,Red Blend,Fujishin,22.0
+87,Bordeaux-style Red Blend,Hamilton,28.0
+87,Pinot Blanc,Las Positas,28.0
+87,Zinfandel,Maddalena,20.0
+87,Red Blend,Markham,25.0
+87,Chardonnay,Rooster Hill,16.0
+87,Gewürztraminer,Rooster Hill,18.0
+87,Cabernet Sauvignon,Pedroncelli,25.0
+87,Bordeaux-style Red Blend,Producta Vignobles,10.0
+90,Moscato,Planeta,22.0
+90,Assyrtiko,Santo Wines,20.0
+90,Pinot Noir,Soléna,48.0
+90,Chardonnay,Stags' Leap Winery,30.0
+90,Frappato,Terre di Giurfo,
+90,Chardonnay,Chanson Père et Fils,59.0
+90,Sylvaner,Domaine Barmès-Buecher,24.0
+90,Pinot Noir,Domaine Collotte,
+90,White Blend,Domaine Rieflé-Landmann,20.0
+90,Pinot Blanc,Domaine Weinbach,20.0
+90,White Blend,Baglio del Cristo di Campobello,
+90,Pinot Gris,Elizabeth Chambers,18.0
+90,Cabernet Sauvignon,Tetra,70.0
+90,Riesling,Trefethen,25.0
+90,Nerello Mascalese,Girolamo Russo,36.0
+90,Shiraz,D'Arenberg,65.0
+90,Merlot,Herencia,42.0
+90,Cabernet Sauvignon,Levendi,50.0
+90,Negroamaro,Monte Volpe,28.0
+90,Mourvèdre,Morse,22.0
+90,Barbera,Naggiar,26.0
+90,Red Blend,Paraduxx,80.0
+90,Tempranillo,Renwood,28.0
+90,Red Blend,Santa Ema,24.0
+90,Tempranillo Blend,Beronia,21.0
+90,Rhône-style Red Blend,Adelaida Cellars,50.0
+90,Zinfandel,Bella Luna,40.0
+90,Syrah,Chacewater,22.0
+90,Riesling,Dr. H. Thanisch (Erben Thanisch),30.0
+90,Cabernet Franc,Occasio,50.0
+90,Cabernet Sauvignon,Korbin Kameron,55.0
+90,Sparkling Blend,Llopart,35.0
+90,Champagne Blend,Sparkling Pointe,37.0
+90,Merlot,Steele,42.0
+90,Sparkling Blend,Torelló,25.0
+90,Cabernet Sauvignon,Trefethen,60.0
+90,Pinot Noir,Anthony Road,27.0
+90,Chardonnay,Au Pied du Mont Chauve,45.0
+90,Romorantin,Benoît Daridan,20.0
+90,Sauvignon Blanc,Benoît Girard,
+90,Pinot Noir,Buena Vista,48.0
+90,Syrah,Burrowing Owl,38.0
+90,Syrah,Castra Rubra,28.0
+90,Pinot Noir,Château de Santenay,80.0
+90,Sauvignon Blanc,Château Favray,19.0
+90,Pinot Noir,Chateau Lettau,45.0
+90,Sangiovese,Corte dei Venti,56.0
+90,Rosé,Prieuré de Montézargues,24.0
+90,Godello,Dominio Do Bibei,36.0
+90,Palomino,González Byass,26.0
+90,Red Blend,Il Brunone,25.0
+90,Tempranillo,Matchbook,15.0
+90,Sangiovese,Luiano,22.0
+90,Red Blend,Villa Mangiacane,20.0
+90,Tempranillo,Maset del Lleó,30.0
+90,Red Blend,Salcheto,30.0
+90,Red Blend,Vignavecchia,18.0
+90,Sangiovese,Villa a Sesta,22.0
+90,Red Blend,Castello della Paneretta,28.0
+90,Cabernet Sauvignon,EOS,40.0
+92,Viognier,Force Majeure,35.0
+92,Chardonnay,Fort Ross,44.0
+92,Chardonnay,Byron,32.0
+92,Bordeaux-style Red Blend,Caliterra,30.0
+92,Nebbiolo,Ca'Romè,113.0
+92,Riesling,Domaine Ostertag,30.0
+92,Nebbiolo,Conterno Fantino,92.0
+92,Nebbiolo,Rivetto,75.0
+92,Zinfandel,Robert Biale,50.0
+92,Chardonnay,Talley,27.0
+92,Pinot Nero,Tosti,49.0
+92,Nebbiolo,Veglio,19.0
+92,Portuguese Red,Pedra Cancela,11.0
+92,Portuguese Red,Poças,44.0
+92,Riesling,Joseph Fritsch,24.0
+92,Riesling,Kiona,15.0
+92,Syrah,Comartin,35.0
+92,Cabernet Sauvignon,Cooper-Garrod,33.0
+92,Merlot,Matteo,140.0
+92,Syrah-Cabernet Sauvignon,Epiphany,35.0
+92,Cabernet Sauvignon,Force Majeure,75.0
+92,Rhône-style Red Blend,Foxen,40.0
+92,Red Blend,Viña Bisquertt,100.0
+92,Riesling,Savage Grace,21.0
+92,Red Blend,Sextant,80.0
+92,Cabernet Sauvignon,Arbor Crest,28.0
+92,Chardonnay,Evening Land,40.0
+92,White Blend,Frank Cornelissen,40.0
+92,Red Blend,Gaja,500.0
+92,Gewürztraminer,Hugel,55.0
+93,Malbec,Viña Cobos,40.0
+93,Syrah,Chamisal Vineyards,40.0
+93,Chardonnay,Merryvale,65.0
+93,Tannat-Cabernet,Producteurs Plaimont,65.0
+93,Syrah,Qupé,
+93,Syrah,Sinor-LaVallee,28.0
+93,Chardonnay,The Calling,51.0
+93,Rosé,Château Gassier,50.0
+93,Rosé,Château Grand Boise,34.0
+93,Malbec,Château Lagrézette,50.0
+93,Rosé,Château les Valentines,30.0
+93,Rosé,Château Roubine,40.0
+93,Cabernet Sauvignon,Daou,30.0
+93,Sauvignon Blanc,Darioush,45.0
+93,Red Blend,Derby,32.0
+93,Chardonnay,Domaine Serene,125.0
+93,Cabernet Sauvignon,Freemark Abbey,150.0
+93,Syrah,Hard Six Cellars,60.0
+93,Pinot Noir,King Estate,70.0
+93,Sherry,Lustau,30.0
+93,Pinot Noir,Patricia Green Cellars,60.0
+93,Sparkling Blend,Schramsberg,80.0
+93,Tannat-Merlot,Vignobles Brumont,25.0
+93,Syrah,Waxwing,32.0
+93,Tempranillo,San Vicente,61.0
+93,Pinot Noir,Babcock,60.0
+93,Chardonnay,Babcock,45.0
+93,Pinot Noir,Bergström,60.0
+93,Pinot Noir,Blue Farm,80.0
+93,Pinot Noir,Challen,85.0
+89,Red Blend,Castellare di Castellina,90.0
+89,Portuguese Red,Caves Velhas,18.0
+89,Portuguese Red,Caves Velhas,7.0
+89,Portuguese Red,Caves Velhas,17.0
+89,Duras,Domaine des Terrisses,18.0
+89,Red Blend,Aver Family Vineyards,39.0
+89,Sauvignon Blanc,Claro,17.0
+89,White Blend,Clos Troteligotte,20.0
+89,Sauvignon Blanc,Concha y Toro,22.0
+89,Chardonnay,Conn Creek,25.0
+89,Garnacha,Parés Baltà,50.0
+89,Rhône-style Red Blend,Fenestra,31.0
+89,Pinot Gris,Franz Keller,25.0
+89,Red Blend,Maray,26.0
+89,Red Blend,Nino Negri,27.0
+89,Sparkling Blend,Laetitia,25.0
+89,Red Blend,Leopoldo I di Toscana,22.0
+89,Pinot Gris,Lumos,18.0
+89,Cabernet Sauvignon,Maquis,20.0
+89,Cabernet Sauvignon,Petra,65.0
+89,Tinta Francisca,Quinta das Carvalhas,60.0
+89,Red Blend,Rocca delle Macìe,52.0
+89,Rosé,Stoller,25.0
+89,Cabernet Sauvignon,Tamber Bey,65.0
+89,Red Blend,Tenuta di Trinoro,240.0
+89,Red Blend,Tenuta Sette Ponti,35.0
+89,Pinot Noir,Walnut City WineWorks,40.0
+89,Portuguese Red,Wines & Winemakers,18.0
+89,Pinot Noir,YNOT,26.0
+89,White Blend,Zacharias,13.0
+90,Nebbiolo,Negro Angelo e Figli,
+90,Tempranillo,Obsidian,28.0
+90,Portuguese Red,Poças,18.0
+90,Red Blend,Ray's Station Vineyards,40.0
+90,Tempranillo Blend,Rioja Vega,35.0
+90,Barbera,Rivetto,38.0
+90,Cabernet Sauvignon,Segal's,20.0
+90,Pinot Noir,Small Vines,72.0
+90,Riesling,St. Urbans-Hof,60.0
+90,Pinot Noir,Stemmler,44.0
+90,Cabernet Sauvignon,Tabor,15.0
+90,Nebbiolo,Tenuta Duecorti,70.0
+90,Portuguese White,Terras de Alter,30.0
+90,Chardonnay,Thomas George,36.0
+90,Red Blend,Tulip Winery,40.0
+90,Chardonnay,Wedell Cellars,70.0
+90,Pinot Noir,Winderlea,48.0
+90,Cabernet Sauvignon,Yatir,55.0
+90,Nebbiolo,Cascina Luisin,42.0
+90,Cabernet Sauvignon,Azari,125.0
+90,Nebbiolo,Borgogno Giacomo e Figli,110.0
+90,Nebbiolo,Ca'Romè,103.0
+90,Nebbiolo,Ceretto,100.0
+90,Nebbiolo,Luigi Pira,40.0
+90,Nebbiolo,Reverdito,68.0
+90,Tempranillo,Valdubón,24.0
+90,Nebbiolo,Vietti,52.0
+90,Pinot Noir,Dalrymple,65.0
+90,Pinot Noir,Antiquum Farm,37.0
+90,Sparkling Blend,Argyle,28.0
+85,Garganega,Marcello Turra,
+85,Chardonnay,Auspicion,13.0
+85,Chardonnay,Carmel,30.0
+85,Portuguese White,Caves Campelo,10.0
+85,Portuguese White,Caves Campelo,9.0
+85,Alicante Bouschet,Adega Cooperativa do Cartaxo,7.0
+85,Portuguese Sparkling,Adega de Cantanhede,12.0
+85,Sauvignon Blanc,Domaine de l'Herré,15.0
+85,White Blend,Domaine du Touja,9.0
+85,Malbec,Proemio,11.0
+85,Portuguese Sparkling,Quinta da Lapa,28.0
+85,Chardonnay,Vin Vault,20.0
+85,Pinot Grigio,The Naked Grape,18.0
+85,Portuguese Sparkling,Global Wines,11.0
+85,Portuguese Red,Global Wines,7.0
+85,Portuguese Sparkling,Global Wines,8.0
+85,Chardonnay,Vergelegen,22.0
+85,Malbec,Bodega Renacer,12.0
+85,Chenin Blanc,Essay,10.0
+85,Rhône-style White Blend,Ogier,16.0
+85,Cabernet Sauvignon,Charles Krug,100.0
+85,Sauvignon Blanc,Noble Hill,15.0
+85,Rosé,Château Clément Termes,16.0
+85,Bordeaux-style White Blend,Domaine de Grange Neuve,12.0
+85,Chardonnay,Domaine de l'Herré,15.0
+85,Portuguese Red,Herdade do Esporão,10.0
+85,Portuguese Red,Global Wines,9.0
+85,White Blend,Pierre Gruber,12.0
+85,Chardonnay,Thomas George,30.0
+85,Garganega,Tinazzi,
+91,Riesling,Weingut Georg Albrecht Schneider,17.0
+91,Pinot Noir,Anam Cara,65.0
+91,White Blend,Vie di Romans,
+91,Pinot Noir,Thistle,32.0
+91,Gamay,Trenel Fils,24.0
+91,Portuguese Red,Wines & Winemakers,35.0
+91,Portuguese Red,Wines & Winemakers,17.0
+91,Portuguese Red,Wines & Winemakers,22.0
+91,Pinot Noir,McIntyre Vineyards,36.0
+91,Syrah,Palmeri,43.0
+91,Portuguese Red,Quinta do Portal,28.0
+91,Portuguese Red,Quinta Nova de Nossa Senhora do Carmo,75.0
+91,Riesling,Emil Reichart,20.0
+91,Portuguese Red,Casal da Coelheira,30.0
+91,Bordeaux-style Red Blend,Château Quinault L'Enclos,
+91,Gamay,Domaine de Leyre-Loup,
+91,Lemberger,Grafen Neipperg,24.0
+91,Red Blend,Koyle,100.0
+91,Red Blend,Maquis,30.0
+91,Turbiana,Olivini,26.0
+91,Pinot Noir,Anam Cara,65.0
+91,Petit Verdot,Von Siebenthal,100.0
+91,Red Blend,Campo di Sasso,30.0
+91,Portuguese Red,Emilio Moro,
+91,Pinot Noir,Failla,48.0
+91,Portuguese White,Fiuza,
+91,Petite Verdot,Herdade das Servas,26.0
+91,Touriga Nacional,Herdade de São Miguel,
+91,Portuguese Red,José Maria da Fonseca,16.0
+91,Pinot Noir,La Follette,42.0
+88,Nebbiolo,460 Casina Bric,60.0
+88,Nebbiolo,Anna Maria Abbona,56.0
+88,Pinot Noir,River's Edge,19.0
+88,Merlot,Robert Mondavi,21.0
+88,Pinot Noir,Stoller,20.0
+88,Cabernet Franc,Tarara,25.0
+88,Bordeaux-style Red Blend,The Williamsburg Winery,72.0
+88,Torrontés,Trapiche,18.0
+88,Bordeaux-style Red Blend,V. Sattui,70.0
+88,Cabernet Franc,Verum,29.0
+88,Portuguese Red,Vinha Paz,35.0
+88,Pinot Noir,Vini,10.0
+88,Mourvèdre,Winery by the Creek,26.0
+88,Nebbiolo,Natale Verga,28.0
+88,Torrontés,Quara,12.0
+88,Mencía,Losada,25.0
+88,Chardonnay,Heggies Vineyard,25.0
+88,Merlot,North Gate,19.0
+88,Posip,Bibich,27.0
+88,Zinfandel,Castle Rock,12.0
+88,Bordeaux-style Red Blend,Château Peugeais,15.0
+88,Pinot Noir,Cramele Halewood,9.0
+88,Chardonnay,Deep Sea,22.0
+88,Sauvignon Blanc,Domaine Vacheron,37.0
+88,Fumé Blanc,Robert Mondavi,19.0
+88,Sauvignon Blanc,Roger et Didier Raimbault,
+88,Nebbiolo,Sarotto,
+88,Pinot Noir,Schug,40.0
+88,Nebbiolo,Simone Scaletta,
+88,Pinot Noir,Tantara,70.0
+87,Merlot,Sevtap,34.0
+87,Cabernet Sauvignon,Sevtap,38.0
+87,Chardonnay,Sheldrake Point,14.0
+87,Zinfandel,Thurston Wolfe,20.0
+87,Nebbiolo,Wilridge,30.0
+87,Cabernet Sauvignon,Wölffer,40.0
+87,Monastrell,Finca Hispana,15.0
+87,Bordeaux-style Red Blend,Château Chantemerle,20.0
+87,Bordeaux-style Red Blend,Château de Bensse,
+87,Cabernet Sauvignon,Chateau Lafayette Reneau,25.0
+87,Bordeaux-style Red Blend,Château Lalaudey,35.0
+87,Bordeaux-style Red Blend,Château Mancèdre,
+87,Bordeaux-style Red Blend,Château Peyfaures,20.0
+87,Syrah,3 Horse Ranch Vineyards,23.0
+87,Riesling,Balo,24.0
+87,Chardonnay,Byron,16.0
+87,White Blend,Giorgio Meletti Cavallari,24.0
+87,Bordeaux-style Red Blend,Gundlach Bundschu,20.0
+87,White Blend,Kitchen Sink,12.0
+87,Riesling,Heron Hill,20.0
+87,Merlot,Chateau Ste. Michelle,28.0
+87,Bordeaux-style Red Blend,Château Vieux Moulin,27.0
+87,White Blend,Murrieta's Well,22.0
+87,Red Blend,Northstar,50.0
+87,Roussanne,Sarah's Vineyard,28.0
+87,Cabernet Sauvignon,Stickybeak,25.0
+87,Touriga Nacional,Patterson,40.0
+87,Cabernet Sauvignon,Pedroncelli,18.0
+87,Sangiovese,Perazzeta,23.0
+87,Merlot,Waterbrook,14.0
+90,Tempranillo,Palacio del Burgo,15.0
+90,Sauvignon Blanc,Passaggio,26.0
+90,Tempranillo Blend,Rioja Vega,20.0
+90,Cabernet Sauvignon,Sketchbook,20.0
+90,Mourvèdre,Adelaida Cellars,50.0
+90,Grillo,CVA Canicattì,
+90,Chardonnay,Domaine Collotte,
+90,Pinot Noir,Domaine Faiveley,56.0
+90,Pinot Noir,Domaine René Bouvier,
+90,Grenache,Casa Dumetz,42.0
+90,Syrah,Rios de Chile,27.0
+90,Riesling,Robert Weil,30.0
+90,Chardonnay,Scar of the Sea,28.0
+90,Pinot Noir,Adelsheim,32.0
+90,Pinot Noir,Boeckel,35.0
+90,Müller-Thurgau,Fritz Müller,19.0
+90,Pinot Noir,Nicolas Potel,70.0
+90,Sauvignon Blanc,Ousterhout,25.0
+90,Syrah,Peju,40.0
+90,Cabernet Sauvignon,Sequoia Grove,90.0
+90,Chardonnay,Sleeping Giant,45.0
+90,Pinot Gris,Sokol Blosser,19.0
+90,Gewürztraminer,Stolo,25.0
+90,Assyrtiko,Tsililis,17.0
+90,Pinot Blanc,Jean-Marc Bernhard,15.0
+90,Pinot Auxerrois,Josmeyer,45.0
+90,Pinot Blanc,Josmeyer,21.0
+90,Pinot Noir,Willamette Valley Vineyards,22.0
+90,Cabernet Franc,Chateau Margene,56.0
+90,Ribolla Gialla,Colliano,15.0
+90,Sangiovese,La Togata,
+90,Sangiovese,Le Macioche,70.0
+90,Chardonnay,Loring Wine Company,40.0
+90,Pinot Noir,MacPhail,85.0
+90,Chardonnay,Mahoney,24.0
+90,Chardonnay,Matanzas Creek,26.0
+90,Petit Verdot,Merry Cellars,46.0
+90,Malbec,Naggiar,24.0
+90,Sangiovese,Poggio Nardone,85.0
+90,Bordeaux-style Red Blend,Purcari,32.0
+90,Port,Robert Hall,36.0
+90,Sauvignon Blanc,Robert Hall,16.0
+90,Pinot Noir,Roger et Didier Raimbault,35.0
+90,Sangiovese,San Polo,80.0
+90,Riesling,Single Wheel,20.0
+90,Cabernet Sauvignon,Substance,15.0
+90,Shiraz,Sula,13.0
+90,Red Blend,Troublemaker by Austin Hope,20.0
+90,Cabernet Sauvignon,V. Sattui,75.0
+90,Chardonnay,William Hill Estate,55.0
+90,Sangiovese,Luiano,22.0
+90,Red Blend,Villa Mangiacane,20.0
+90,Tempranillo,Maset del Lleó,30.0
+90,Red Blend,Salcheto,30.0
+90,Red Blend,Vignavecchia,18.0
+90,Sangiovese,Villa a Sesta,22.0
+90,Rosé,Adair Bachman,35.0
+90,Cabernet Sauvignon,Apriori,48.0
+90,Chardonnay,Au Pied du Mont Chauve,43.0
+90,Gewürztraminer,Bellangelo,18.0
+93,Syrah,Waxwing,32.0
+93,Chardonnay,Kumeu River,46.0
+93,Malbec,Château Eugénie,40.0
+93,Tannat-Cabernet,Château Peyros,20.0
+93,Pinot Noir,Fess Parker,55.0
+93,Chardonnay,Grgich Hills,94.0
+93,Syrah,Hard Six Cellars,40.0
+93,Pinot Noir,Patricia Green Cellars,37.0
+93,Pinot Noir,Samuel Louis Smith,44.0
+93,Blaufränkisch,Schwarz Wein,
+93,Cabernet Sauvignon,Smith-Madrone,50.0
+93,Pinot Noir,Malat,27.0
+93,Malbec,Waters,32.0
+93,Cabernet Blend,Luigi Bosca,38.0
+93,Sauvignon Blanc,Spy Valley,33.0
+93,Riesling,Felton Road,40.0
+93,White Blend,Barden,36.0
+93,Chardonnay,Bergström,35.0
+93,Pinot Noir,Challen,60.0
+93,Tempranillo,Bodegas Riojanas,37.0
+93,Tempranillo Blend,CVNE,44.0
+93,Red Blend,Pago de Carraovejas,136.0
+93,Rosé,Domaines Ott,52.0
+93,Chardonnay,FEL,48.0
+93,Aglianico,Feudi di San Gregorio,80.0
+93,Grenache,Koehler,30.0
+93,Syrah,Saviah,32.0
+93,Grüner Veltliner,Sohm & Kracher,
+93,Pinot Noir,Stadlmann,19.0
+93,Pinot Noir,Testarossa,65.0
+90,Pinot Noir,Argyle,50.0
+90,Pinot Gris,Big Table Farm,32.0
+90,Riesling,Bischöfliche Weingüter Trier,23.0
+90,Nebbiolo,Cantina del Nebbiolo,
+90,Nebbiolo,Cantina del Pino,44.0
+90,Cabernet Sauvignon,Carmel,40.0
+90,Portuguese Red,Casa Santos Lima,13.0
+90,Gewürztraminer,Château Bianca,15.0
+90,Nebbiolo,Clavesana,
+90,Pinot Noir,Clos LaChance,50.0
+90,Riesling,Dr. Pauly Bergweiler,22.0
+90,Chardonnay,Jean-Luc and Paul Aegerter,141.0
+90,Chardonnay,Jean-Luc and Paul Aegerter,74.0
+90,Cabernet Sauvignon,Leto,100.0
+90,Nebbiolo,Luigi Oddero & Figli,102.0
+90,Nebbiolo,Marchesi di Barolo,80.0
+90,Nebbiolo,Mauro Sebaste,35.0
+90,Nebbiolo,Mauro Veglio,55.0
+90,Nebbiolo,Montaribaldi,50.0
+90,Cabernet Franc-Cabernet Sauvignon,Or Haganuz,38.0
+90,Zinfandel,Papapietro Perry,42.0
+90,White Blend,Paro,26.0
+90,Champagne Blend,Pierre Gimonnet et Fils,65.0
+90,Nebbiolo,Pietro Rinaldi,70.0
+90,Nebbiolo,Pio Cesare,60.0
+90,Cabernet Sauvignon,Raymond,50.0
+90,Red Blend,Red C,44.0
+90,Pinot Noir,Roco,60.0
+90,Pinot Noir,Swick,20.0
+90,Rhône-style White Blend,Tablas Creek,45.0
+92,Riesling,Jean-Marc Bernhard,34.0
+92,Chardonnay,Lynmar,55.0
+92,Cabernet Sauvignon,Sol Rouge,75.0
+92,Chardonnay,Transcendence,34.0
+92,Castelão,Wines & Winemakers,17.0
+92,Riesling,Domaine Allimant-Laugner,25.0
+92,Riesling,Domaine Charles Baur,30.0
+92,Riesling,Domaine Ostertag,47.0
+92,Riesling,Domaine Pfister,49.0
+92,Riesling,Domaine Zind-Humbrecht,26.0
+92,Portuguese Red,Herdade Paço do Conde,53.0
+92,Bordeaux-style Red Blend,Château des Annereaux,65.0
+92,Bordeaux-style Red Blend,Château Labégorce Margaux,40.0
+92,Nebbiolo,Adriano Marco & Vittorio,34.0
+92,Nebbiolo,Albino Rocca,55.0
+92,Syrah,B Cellars,60.0
+92,Cabernet Sauvignon,Charles Krug,100.0
+92,Cabernet Franc,Côtes de Ciel,39.0
+92,Portuguese Red,Quinta do Sagrado,25.0
+92,Bordeaux-style Red Blend,Kiona,42.0
+92,Bordeaux-style Red Blend,Midnight,65.0
+92,Carmenère,Montes,85.0
+92,Chardonnay,Domaine Anderson,43.0
+92,Encruzado,Druida,35.0
+92,Cabernet Sauvignon,Hess Collection,100.0
+92,Chardonnay,Lynmar,70.0
+92,Cabernet Sauvignon,Prim Family,80.0
+92,Portuguese Red,Quanta Terra,25.0
+92,Nebbiolo,Castello di Neive,65.0
+92,Bordeaux-style Red Blend,Château des Annereaux,65.0
+85,Touriga Nacional-Cabernet Sauvignon,Falua,15.0
+85,Chardonnay,Robertson Winery,10.0
+85,Sauvignon Blanc,Neil Ellis,15.0
+85,Rhône-style White Blend,Domaine du Pegau,63.0
+85,Malbec,Antonio Gonzalez,35.0
+85,Chenin Blanc,KWV,10.0
+85,Sangiovese,Benessere,32.0
+85,Chardonnay,Blason de Bourgogne,
+85,Chardonnay,Alexander Valley Vineyards,18.0
+85,Colombard-Sauvignon Blanc,Georges Vigouroux,11.0
+85,Malbec-Merlot,Georges Vigouroux,9.0
+85,Malbec,Georges Vigouroux,12.0
+85,Sauvignon Blanc,Martinez & Martinez,18.0
+85,Zinfandel,Mazzocco,52.0
+85,Portuguese Red,Quinta do Casal Branco,15.0
+85,Portuguese White,Quinta do Casal Monteiro,15.0
+85,Cabernet Sauvignon,Schooler Nolan,27.0
+85,Moscatel,Ochoa,30.0
+85,Chardonnay,Treleaven,15.0
+85,Malbec,Laberinto,13.0
+85,Marsanne,Cave de Tain,13.0
+85,Red Blend,Hudson-Chatham,25.0
+85,Malbec,Château Armandière,17.0
+85,Portuguese Red,Casa Santa Vitória,10.0
+85,Portuguese White,Adega Cooperativa de Borba,7.0
+85,Portuguese Red,Alves de Sousa,14.0
+85,White Blend,Amatore,10.0
+85,White Blend,Georges Vigouroux,9.0
+85,Siria,Companhia das Quintas,10.0
+85,Chardonnay,Decoy,20.0
+87,Cabernet Sauvignon,Chateau Lafayette Reneau,25.0
+87,Bordeaux-style Red Blend,Château Lalaudey,35.0
+87,Bordeaux-style Red Blend,Château Mancèdre,
+87,Bordeaux-style Red Blend,Château Peyfaures,20.0
+87,Syrah,3 Horse Ranch Vineyards,23.0
+87,Riesling,Balo,24.0
+87,Chardonnay,Byron,16.0
+87,Merlot,Burnt Bridge,32.0
+87,Sangiovese,Camigliano,55.0
+87,Blaufränkisch,Shooting Star,13.0
+87,Red Blend,Tenuta Sette Cieli,42.0
+87,Cabernet Sauvignon,Two Mountain,74.0
+87,Monastrell,Finca Hispana,15.0
+87,Cabernet Sauvignon,Gård,35.0
+87,Cabernet Franc,Millbrook,20.0
+87,Malbec,Rutini,11.0
+87,Malbec,Sur de los Andes,38.0
+87,Pinot Noir,Trapiche,18.0
+87,Red Blend,Donne Fittipaldi,75.0
+87,Garnacha Blanca,Finca Hispana,10.0
+87,Riesling,Hat Ranch,18.0
+87,Red Blend,Aia Vecchia,40.0
+87,Bordeaux-style Red Blend,Château du Cartillon,30.0
+87,Bordeaux-style Red Blend,Château Grand Billard,
+87,Bordeaux-style Red Blend,Château Laffitte Carcasset,40.0
+87,Bordeaux-style Red Blend,Château Maine d'Arman,13.0
+87,Bordeaux-style Red Blend,Château Noaillac,19.0
+87,Bordeaux-style Red Blend,Château Saransot-Dupré,25.0
+87,Zinfandel,Chacewater,21.0
+87,Sauvignon Blanc,Billsboro,18.0
+89,Garnacha,Alto Moncayo,34.0
+89,Red Blend,Amantis,32.0
+89,Chardonnay,Anam Cara,33.0
+89,Red Blend,Cave du Marmandais,22.0
+89,Portuguese Red,Caves Velhas,12.0
+89,Malbec,Château de Cénac,26.0
+89,Pinot Noir,Deer Creek,22.0
+89,Red Blend,Domaine Roumagnac,13.0
+89,Riesling,Richard Böcking,45.0
+88,Red Blend,Mas Igneus,25.0
+88,Red Blend,Clos de Tafall,22.0
+88,Agiorgitiko,Palivou,19.0
+88,Sauvignon Blanc,Foursight,20.0
+88,Merlot-Cabernet Sauvignon,Keenan,96.0
+88,Gros and Petit Manseng,Domaine Nigri,
+88,Red Blend,Coup de Grace,28.0
+88,Pinot Noir,Saint Gregory,19.0
+88,Mourvèdre,Longevity,26.0
+88,Red Blend,Marchesi de' Frescobaldi,17.0
+88,Red Blend,Nera,35.0
+88,Port,Delaforce,20.0
+88,Malbec,Clos Troteligotte,18.0
+88,Pinot Noir,Et Fille,34.0
+88,Meritage,Falkner,14.0
+88,Rosé,HammerSky,28.0
+88,Bordeaux-style Red Blend,HdV,66.0
+88,Grenache,Donati,25.0
+88,Zinfandel,Eberle,28.0
+88,Riesling,Hyland,28.0
+88,Sauvignon Blanc,Indomita,13.0
+91,Tannat,Lionel Osmin & Cie,
+91,Primitivo,Macchia,24.0
+91,Turbiana,Le Morette,25.0
+91,Syrah,Margerum,36.0
+91,Riesling,Dr. Heidemanns-Bergweiler,18.0
+91,Syrah,Polkura,23.0
+91,Rhône-style White Blend,Cowhorn,28.0
+91,Arinto,Dão Sul,40.0
+91,Chardonnay,Domaine Vincent Girardin,78.0
+91,Zinfandel,Dutcher Crossing,43.0
+91,Pinot Noir,Evening Land,65.0
+91,Chardonnay,Failla,44.0
+91,Pinot Noir,Flowers,50.0
+91,Pinot Noir,Benovia,56.0
+91,Bordeaux-style Red Blend,Château Cheval Blanc,
+91,Viognier,Château Lagrézette,30.0
+91,Bordeaux-style Red Blend,Château Les Trois Manoirs,
+91,Bordeaux-style Red Blend,Château Mauvesin Barton,22.0
+91,Rhône-style Red Blend,Amapola Creek,48.0
+91,Portuguese Red,Dão Sul,22.0
+91,Chardonnay,Domaine de Bellene,60.0
+91,Bordeaux-style Red Blend,Domaine D'en Ségur,40.0
+91,Petit Manseng,Domaine Nigri,
+91,Riesling,Elk Cove,19.0
+91,Portuguese Red,Herdade do Rocim,
+91,Chardonnay,Jarvis,64.0
+91,Pinot Noir,Roche de Bellene,74.0
+91,Turbiana,Ca' Lojera,24.0
+91,Loureiro,Casal Paço Padreiro,
+91,Portuguese Red,Caves Velhas,
+88,Pinot Noir,Testarossa,63.0
+88,Tempranillo,Viña Albali,14.0
+88,Pinot Gris,Willamette Valley Vineyards,16.0
+88,Cabernet Sauvignon,Pascual Toso,21.0
+88,Sauvignon Blanc,Prince de Tabourg,15.0
+88,Cabernet Sauvignon,Pull,18.0
+88,Nebbiolo,Rattalino,50.0
+88,Pinot Noir,Red Pony Ranch,18.0
+88,Nebbiolo,Andrea Oberto,80.0
+88,Pinot Noir,Dominio IV,48.0
+88,Sauvignon Blanc,Dominique Pabiot,22.0
+88,Pinot Noir,Elk Cove,16.0
+88,Malbec,Finca La Luz,28.0
+88,Pinot Noir,Foppiano,35.0
+88,Pinot Noir,Kramer,40.0
+88,Pinot Noir,Le Cadeau,48.0
+88,Melon,Les Vignerons des Terroirs de la Noëlle,12.0
+88,Pinot Gris,MacMurray Estate Vineyards,20.0
+88,Petite Sirah,Miro,26.0
+88,Nebbiolo,Ca' del Baio,55.0
+88,Grenache-Syrah,Los Dos,8.0
+88,Mencía,Luna Beberide,16.0
+88,Viognier,Materra Cunat Family Vineyards,30.0
+88,Pinot Gris,Maysara,23.0
+88,Red Blend,MCV,21.0
+88,Pinot Noir,Navarro,30.0
+88,Moscatel,Ochoa,30.0
+88,Nebbiolo,Reverdito,35.0
+88,Pinot Gris,Silvan Ridge,17.0
+88,Pinot Noir,Stemmler,25.0
+90,Carricante,Cottanera,24.0
+90,Pinot Noir,Carabella,40.0
+90,White Blend,Chateau Dereszla,16.0
+90,Cabernet Sauvignon,Easton,40.0
+90,Syrah,Fess Parker,28.0
+90,Fiano,Feudi di San Gregorio,21.0
+90,Rhône-style Red Blend,Andrew Murray,36.0
+90,Assyrtiko,Argyros,28.0
+90,Zinfandel,Lorenzi Estate,65.0
+90,Pinot Noir,MacPhail,49.0
+90,Cabernet Sauvignon,Herzog,44.0
+90,Zinfandel,Hunnicutt,48.0
+90,Chardonnay,J Vineyards & Winery,28.0
+90,Rosé,Kale,30.0
+90,Sylvaner,Leon Beyer,17.0
+90,Red Blend,Tornatore,39.0
+90,Grenache,Upper Five,16.0
+90,Silvaner,Rainer Sauer,22.0
+90,Pinot Noir,Raptor Ridge,45.0
+90,Sylvaner,René Muré,15.0
+90,Pinot Noir,Soléna,48.0
+90,Petite Sirah,Spangler,35.0
+90,Zinfandel,Napa Cellars,24.0
+90,Red Blend,Paraduxx,95.0
+90,Zinfandel,Peter Franus,32.0
+90,Tempranillo Blend,Marqués de Vargas,26.0
+90,Tempranillo Blend,Remelluri,32.0
+90,Zinfandel,Steele,24.0
+90,Schwartzriesling,Weinreich,25.0
+90,Garnacha,Contino,50.0
+90,Red Blend,Büyülübağ,30.0
+90,Sangiovese,Carpineto,60.0
+90,Merlot,Charles Smith,12.0
+90,Chardonnay,Château de Santenay,50.0
+90,Sangiovese,Cordella,85.0
+90,Rhône-style Red Blend,Davis Family,42.0
+90,Sauvignon Blanc,Domaine Chavet,20.0
+90,Champagne Blend,Sparkling Pointe,72.0
+90,Sangiovese-Syrah,Stolpman,66.0
+90,Vermentino,Bailiwick,18.0
+90,White Blend,Domaine des Baumard,32.0
+90,Rosé,E. Guigal,19.0
+90,Pinot Noir,Freeman,44.0
+90,Red Blend,Huerta de Albalá,90.0
+90,Red Blend,Huerta de Albalá,33.0
+90,Chardonnay,Kunde,45.0
+90,Pinot Noir,La Voix,30.0
+90,Cabernet Sauvignon,Martin Ray,65.0
+90,Cabernet Sauvignon,Martin Ray,65.0
+90,Cabernet Franc,Oakville East,125.0
+90,Red Blend,Quivira,38.0
+90,Red Blend,Castello della Paneretta,28.0
+90,Red Blend,Edetària,32.0
+90,Cabernet Sauvignon,Frog's Leap,55.0
+90,Pinot Noir,Hirsch,85.0
+90,Chardonnay,Keenan,35.0
+90,Rosé,Lavau,17.0
+90,Red Blend,Marianello,48.0
+90,Syrah,Michael David,16.0
+90,Furmint,Oremus,26.0
+90,Sparkling Blend,Argyle,28.0
+90,Pinot Noir,Argyle,50.0
+90,Pinot Gris,Big Table Farm,32.0
+90,Riesling,Bischöfliche Weingüter Trier,23.0
+90,Nebbiolo,Cantina del Nebbiolo,
+90,Nebbiolo,Cantina del Pino,44.0
+90,Cabernet Sauvignon,Carmel,40.0
+90,Malbec,Ricominciare,30.0
+90,Pinot Gris,Antiquum Farm,28.0
+90,Nebbiolo,Beni di Batasiolo,46.0
+90,Malbec,Bodega Catena Zapata,24.0
+90,Nebbiolo,Brandini,
+90,Zinfandel,Carol Shelton,33.0
+90,Barbera,Cascina delle Rose,25.0
+90,Bordeaux-style White Blend,Château Bélingard,13.0
+90,Melon,Château de la Ragotiere,16.0
+90,Malbec-Merlot,Château Eugénie,50.0
+90,Bordeaux-style Red Blend,Château Laulerie,19.0
+90,Tannat-Cabernet Franc,Château Peyros,13.0
+90,Rhône-style Red Blend,Clos La Chance,50.0
+90,Pinot Noir,David Hill,50.0
+90,Nebbiolo,Deltetto,35.0
+90,Chardonnay,Dry Creek Vineyard,30.0
+90,Pinot Blanc,Franz Keller,25.0
+90,Nebbiolo,Gianpiero Marrone,
+90,Cabernet Sauvignon,Laurel Glen,40.0
+90,Mencía,Luna Beberide,55.0
+90,Portuguese Red,Magnum Vinhos,100.0
+90,Cabernet Sauvignon,Mathew Bruno,100.0
+90,Sauvignon Blanc,Merryvale,28.0
+93,Sauvignon Blanc,Brander,32.0
+93,Grenache,Margerum,40.0
+93,Chardonnay,Ponzi,40.0
+92,Pinot Noir,Palliser Estate,63.0
+92,Gros Manseng,Château de Gayon,26.0
+92,Rosé,Château Saint-Maur,45.0
+92,Rosé,Château Vannières,
+92,Tannat,Domaine Capmartin,25.0
+92,Pinot Noir,Domaine Serene,75.0
+92,Pinot Noir,Domaine Serene,95.0
+92,Cabernet Sauvignon,Écluse,42.0
+92,Grüner Veltliner,Josef Bauer,17.0
+92,Grenache,Joyce,35.0
+92,Grüner Veltliner,Jurtschitsch,18.0
+92,Pinot Gris,King Estate,28.0
+92,Pinot Noir,Anaba,54.0
+92,Pinot Noir,Babcock,35.0
+92,Tempranillo,Barton,40.0
+92,Pinot Noir,Bergström,68.0
+92,Rosé,Bernard Magrez,59.0
+92,Red Blend,Château Bellevue la Forêt,28.0
+92,White Blend,Matthiasson,40.0
+92,Sparkling Blend,Mumm Napa,80.0
+92,Barbera,Pianetta,38.0
+92,Petite Sirah,Pianetta,38.0
+92,Chardonnay,Ponzi,63.0
+92,Cabernet Franc-Merlot,Quady North,40.0
+92,Syrah,Qupé,
+92,Zinfandel,Renwood,50.0
+92,Zinfandel,Sbragia,34.0
+85,Portuguese Red,Casa Santa Vitória,10.0
+85,Portuguese White,Adega Cooperativa de Borba,7.0
+85,Portuguese Red,Alves de Sousa,14.0
+85,White Blend,Amatore,10.0
+85,Sangiovese,Paradiso di Frassina,149.0
+85,Bordeaux-style Red Blend,Martinez & Martinez,26.0
+85,Torrontés,Solo Contigo,16.0
+85,Malbec,Vino San Esteban,9.0
+84,Malbec,Altos Las Hormigas,12.0
+84,Rosé,Dona Maria-Júlio Bastos,18.0
+84,Sauvignon Blanc,Quinta da Alorna,
+84,Sauvignon Blanc-Semillon,Napa by N.A.P.A.,15.0
+84,Alvarinho,Adega Cooperativa de Borba,13.0
+84,Portuguese White,Wines & Winemakers,12.0
+84,Rhône-style White Blend,Louis Bernard,14.0
+84,Bordeaux-style Red Blend,Casarena,12.0
+84,Red Blend,Bodegas Aragonesas,9.0
+84,Pinot Noir,Acacia,29.0
+84,Portuguese Sparkling,Adega Cooperativa do Cartaxo,10.0
+84,White Blend,Las Positas,35.0
+84,Bordeaux-style White Blend,Domaine de Grange Neuve,12.0
+84,Sauvignon Blanc,EOS,14.0
+84,Chenin Blanc,Gen Del Alma,17.0
+84,Pinot Noir,Sand Point,12.0
+84,Chenin Blanc,Waterkloof,20.0
+84,Malbec,Antucura,17.0
+84,Chenin Blanc,Fat Barrel,9.0
+84,Macabeo,Casa de la Ermita,14.0
+84,Rosé,Caves Campelo,10.0
+84,Portuguese White,Caves Campelo,10.0
+92,Syrah,Ampelos,35.0
+92,Chardonnay,Array,32.0
+92,Bordeaux-style Red Blend,Daou,56.0
+92,Merlot,Côtes de Ciel,39.0
+92,Portuguese Red,Herdade do Rocim,23.0
+92,Syrah,Kerloo,40.0
+92,Sauvignon Blanc,Mercy,20.0
+92,Alfrocheiro,Quinta de Lemos,32.0
+92,Zinfandel,Summerwood,35.0
+92,Merlot,Woodward Canyon,52.0
+92,Syrah,Zaca Mesa,48.0
+91,Riesling,Domaine Jean Sipp,14.0
+91,Pinot Blanc,Domaine Ostertag,27.0
+91,Gewürztraminer,Domaines Schlumberger,38.0
+91,Syrah,Errazuriz,20.0
+91,Chardonnay,Franciscan,40.0
+91,Cabernet Sauvignon,Greyscale,54.0
+91,Tempranillo,Hovey,26.0
+91,Red Blend,Lapostolle,22.0
+91,Syrah,Martin Lane Winery,30.0
+91,Portuguese Red,Campolargo,58.0
+91,Chardonnay,Chasseur,40.0
+91,Bordeaux-style White Blend,Château Suduiraut,35.0
+91,Chardonnay,Talley,24.0
+91,Sangiovese,Pianetta,29.0
+91,Cabernet Sauvignon,Prim Family,80.0
+91,Portuguese Red,Quinta de la Rosa,22.0
+91,Chardonnay,Castoro Cellars,15.0
+91,Portuguese Red,Caves Aliança,22.0
+91,Riesling,Domaine Rieflé-Landmann,36.0
+87,Chardonnay,14 Hands,25.0
+87,Sauvignon Blanc,14 Hands,22.0
+87,Zinfandel,Boneshaker,25.0
+87,Rhône-style Red Blend,Cairdeas,32.0
+87,White Blend,Campo al Mare,20.0
+87,Chardonnay,Edna Valley Vineyard,35.0
+87,Malbec,Ferllen,18.0
+87,Aligoté,Shooting Star,13.0
+87,Sangiovese,Tenuta di Sesta,140.0
+87,Sangiovese,Tenuta La Fuga,60.0
+87,Red Blend,Terre del Marchesato,25.0
+87,Sangiovese,Agostina Pieri,50.0
+87,Sangiovese,Castelgiocondo,138.0
+87,Sangiovese,Colombaio,55.0
+87,Chardonnay,Columbia Winery,15.0
+87,Torrontés,Cuatro Vacas Gordas,12.0
+87,Red Blend,Flying Trout,35.0
+87,White Blend,Patterson,23.0
+87,Bordeaux-style Red Blend,Producta Vignobles,19.0
+87,Verdejo,Protos,15.0
+87,Sparkling Blend,Francis Ford Coppola,19.0
+87,Merlot,Gainey,24.0
+87,White Blend,Genoa,19.0
+87,Zinfandel,Graton Ridge,48.0
+87,Gewürztraminer,Navarro,20.0
+87,Red Blend,Mercer,26.0
+87,Riesling,Snoqualmie,8.0
+87,Syrah,Syncline,60.0
+87,Grenache Blanc,Syncline,25.0
+87,Chardonnay,Taft Street,20.0
+91,Champagne Blend,Charles Ellner,66.0
+91,Malbec,Château Lagrézette,45.0
+91,Champagne Blend,Ayala,75.0
+90,Red Blend,Fattoria La Ripa,25.0
+90,Cabernet Sauvignon,Herzog,40.0
+90,Merlot,Jarvis,95.0
+90,Pinot Noir,La Montagne,48.0
+90,Pinot Noir,Lachini,48.0
+90,Zinfandel,Macchia,50.0
+90,Chardonnay,McIntyre Vineyards,28.0
+90,Pinot Noir,Brick & Mortar,44.0
+90,Pinot Noir,Calera,60.0
+90,Red Blend,Castellinuzza e Piuca,16.0
+90,Champagne Blend,Charles Ellner,50.0
+90,Bordeaux-style Red Blend,Château Jeandeman,55.0
+90,Bordeaux-style Red Blend,Château Paloumey,20.0
+90,Bordeaux-style Red Blend,Château Tour de Pressac,45.0
+90,Turbiana,Selva Capuzza,
+90,Turbiana,Tenuta Roveglia,19.0
+90,Cabernet Sauvignon,Triumph Cellars,50.0
+90,Portuguese White,Wines & Winemakers,18.0
+90,Portuguese Red,Novo Mundo,15.0
+90,Red Blend,Palmeri,54.0
+90,Fernão Pires,Quinta do Casal Branco,
+90,Rhône-style Red Blend,Baker & Brain,35.0
+90,Chardonnay,Beauregard,45.0
+90,Riesling,Reichsgraf von Kesselstatt,31.0
+90,Riesling,Domdechant Werner,35.0
+90,Riesling,Bollig-Lehnert,18.0
+90,Spätburgunder,Thörle,60.0
+88,Riesling,j.brix,25.0
+88,Mourvèdre,Jada Vineyard & Winery,25.0
+88,Red Blend,La Folia Winery,50.0
+88,Sparkling Blend,Laetitia,30.0
+88,Pinot Noir,Landmark,60.0
+88,Chardonnay,St. Francis,15.0
+88,Merlot,Petra,65.0
+88,Red Blend,Pietro Beconcini,19.0
+88,Red Blend,Pieve Santo Stefano,28.0
+88,Portuguese White,Quinta da Lagoalva de Cima,
+88,Pinot Noir,Quintay,20.0
+88,Rosé,Tablas Creek,27.0
+88,Merlot,Tenuta Villa Trasqua,120.0
+88,Grüner Veltliner,Raptor Ridge,20.0
+88,Bordeaux-style Red Blend,Vignerons de Buzet,15.0
+88,Merlot,Viña Casablanca,12.0
+88,Chardonnay,Wrights Station,35.0
+88,Red Blend,Château Lastours,12.0
+88,Bordeaux-style White Blend,Château Tour des Gendres,16.0
+88,Red Blend,Cave du Marmandais,45.0
+88,Ciliegiolo,Cesani,22.0
+88,Cabernet Sauvignon-Carmenère,Casa Donoso,44.0
+88,Pinot Noir,Casas del Bosque,20.0
+88,Merlot,Castellare di Castellina,110.0
+88,Red Blend,Argiano,26.0
+88,Red Blend,Aver Family Vineyards,40.0
+88,Cabernet Franc,Valle Secreto,35.0
+88,Rhône-style Red Blend,Vasco Urbano,36.0
+88,Pinot Gris,Villa Wolf,12.0
+88,Tempranillo,Pagos del Rey,15.0
+88,Cabernet Sauvignon,Still Waters,26.0
+88,Portuguese Red,Terras de Alter,20.0
+88,Pinot Noir,Torii Mor,60.0
+88,Portuguese Red,Vidigal,12.0
+88,Zinfandel,Watts,25.0
+88,Merlot,William Hill Estate,17.0
+88,Posip,Zlatan Otok,20.0
+88,Merlot,Cramele Halewood,9.0
+88,Sauvignon Blanc,Domaine A. Cailbourdin,
+88,Sauvignon Blanc,Domaine Philippe Portier,25.0
+88,Petite Sirah,Elyse,37.0
+88,Pinot Noir,Hanzell,98.0
+88,Sauvignon Blanc,Horse & Plow,25.0
+88,Rhône-style White Blend,Bonny Doon,26.0
+88,Portuguese White,Casa de Vila Nova,12.0
+88,Rosé,Casa Ferreirinha,20.0
+88,Chenin Blanc,Cave des Producteurs de Vouvray,
+88,Bordeaux-style Red Blend,Château Métairie Neuve,21.0
+88,Sauvignon Blanc,Clos du Lac,10.0
+88,Torrontés,Colomé,15.0
+88,Pinot Noir,Balletto,42.0
+88,Viognier,Sutcliffe,25.0
+88,Nebbiolo,Eugenio Bocchino,
+88,Tempranillo,Hermanos Lurton,15.0
+88,Tempranillo Blend,Dominio de Berzal,16.0
+88,Red Blend,Cellers Baronia del Montsant,30.0
+88,Tempranillo Blend,Bodegas Valdemar,25.0
+88,Tempranillo Blend,Viña Herminia,15.0
+88,Chenin Blanc,Pillsbury,28.0
+88,Rosé,Domaine Vincent Delaporte,28.0
+90,Zinfandel,Steele,24.0
+90,Schwartzriesling,Weinreich,25.0
+90,Carmenère,Carmen,15.0
+90,Chardonnay,Château de Lavernette,35.0
+90,Sauvignon Blanc,Lava Cap,18.0
+90,Pinot Noir,MacPhail,40.0
+90,Zinfandel,Easton,35.0
+90,Chardonnay,Edna Valley Vineyard,35.0
+90,Sauvignon Blanc,Errazuriz,22.0
+90,Cabernet Franc,Gershon Bachus,45.0
+90,Sparkling Blend,Alma Rosa,65.0
+90,Zinfandel,Benessere,35.0
+90,Pinot Noir,BKB,35.0
+90,Zinfandel,Graveyard,38.0
+90,Rhône-style Red Blend,kukkula,40.0
+90,Riesling,Robert Weil,20.0
+90,Syrah,Shane Wines,34.0
+90,Pinot Noir,Domaine Barmès-Buecher,55.0
+90,Chardonnay,Domaine Jacques Prieur,117.0
+90,Pinot Noir,Vidon Vineyard,40.0
+90,Rosé,Vignobles Grandeau,15.0
+90,Grenache,Casa Dumetz,42.0
+90,Pinot Noir,Chanson Père et Fils,68.0
+90,Chardonnay,Peter Paul Wines,40.0
+90,White Blend,Portal del Montsant,32.0
+90,Pinot Noir,Nicolas Potel,60.0
+90,Pinot Noir,Willamette Valley Vineyards,18.0
+90,Auxerrois,Jean-Baptiste Adam,32.0
+90,Pinot Noir,Kuentz-Bas,20.0
+90,Pinot Blanc,Leon Beyer,19.0
+90,Furmint,Oremus,25.0
+90,Syrah,Patland,75.0
+90,Cabernet Franc,Inspire Moore,21.0
+90,Sauvignon Blanc,Joseph Mellot,20.0
+90,Pinot Noir,Kanzler,52.0
+90,Pinot Noir,Lachini,55.0
+90,Zinfandel,Lasseter,48.0
+90,Sangiovese,Le Gode,80.0
+90,Red Blend,Mazzei,50.0
+90,Syrah,Ouled Thaleb,18.0
+90,Zinfandel,Parmeson,35.0
+90,Red Blend,Purcari,31.0
+90,Pinot Noir,Sanglier Cellars,45.0
+90,Sangiovese,Seconda Stella a Destra,120.0
+90,Syrah,Tamarack Cellars,28.0
+90,Syrah,Telaya,30.0
+90,Pinot Noir,The Calling,62.0
+90,Sangiovese,Uccelliera,59.0
+90,Syrah,Va Piano,65.0
+90,Sangiovese,Argiano,66.0
+90,Alicante Bouschet,Carlisle,36.0
+90,Pinot Noir,Castra Rubra,28.0
+90,Sauvignon Blanc,Château de Crézancy,26.0
+90,Cabernet Sauvignon,Cloudlift Cellars,30.0
+90,Sangiovese,Collemattoni,
+90,Sauvignon Blanc,Domaine Fouassier,30.0
+90,Sauvignon Blanc,Domaine Laporte,26.0
+90,Sauvignon Blanc,Domaine Tinel-Blondelet,50.0
+90,Sauvignon Blanc,Domaine Vacheron,
+90,Sangiovese,Donna Olga,55.0
+92,Grüner Veltliner,Josef Bauer,17.0
+92,Grenache,Joyce,35.0
+92,Grüner Veltliner,Jurtschitsch,18.0
+92,Pinot Gris,King Estate,28.0
+92,Chardonnay,Kumeu River,49.0
+92,Cabernet Sauvignon,Mascota,50.0
+92,Tempranillo,Portia,77.0
+92,Chardonnay,Neudorf,25.0
+92,Syrah,Babcock,35.0
+92,Grüner Veltliner,Bernhard Ott,22.0
+92,Sauvignon,Borgo del Tiglio,70.0
+92,Rosé,Château Coussin,45.0
+92,Rosé,Château de Calavon,20.0
+92,Rosé,Château des Bormettes,26.0
+92,Pinot Noir,Domaine Serene,45.0
+92,Grüner Veltliner,Ecker,15.0
+92,Syrah,Écluse,38.0
+92,Sirica,Feudi di San Gregorio,23.0
+92,Chardonnay,Foley,45.0
+92,Aglianico,I Favati,40.0
+92,Rosé,Joyce,25.0
+92,Sauvignon Blanc,Judge Palmer,32.0
+92,Bordeaux-style Red Blend,Kevin White,35.0
+92,Red Blend,L'Enclos des Braves,28.0
+92,Sherry,Lustau,30.0
+92,Cabernet Sauvignon,Mathew Bruno,100.0
+92,Blaufränkisch,Muhr-Van der Niepoort,25.0
+92,Red Blend,Nastl,15.0
+92,Pinot Noir,Native Flora,65.0
+92,Zweigelt,Netzl,25.0
+90,Chardonnay,Migration,55.0
+90,Rhône-style White Blend,Montemaggiore,25.0
+90,Cabernet Sauvignon,Gallo Estate,95.0
+90,Nebbiolo,Giacomo Grimaldi,60.0
+90,Nebbiolo,Chiara Boschis - E. Pira e Figli,90.0
+90,Merlot,Dark Horse,10.0
+90,Cabernet Sauvignon,Or Haganuz,52.0
+90,Pinot Noir,Panther Creek,65.0
+90,Viognier,Perry Creek,20.0
+90,Grenache,Quivira,32.0
+90,Cabernet Sauvignon,Raymond,38.0
+90,Zinfandel,Rock Wall,45.0
+90,Cabernet Sauvignon,Shiloh Winery,40.0
+90,Shiraz,Tabor,22.0
+90,Shiraz,Tabor,15.0
+90,Pinot Noir,Trinity Vineyards,19.0
+90,Nebbiolo,Virna Borgogno,75.0
+90,Pinot Noir,Winderlea,60.0
+90,Spätburgunder,Wittmann,34.0
+90,Tempranillo Blend,Viña Cumbrero,10.0
+90,Cabernet Sauvignon,Forefathers,50.0
+90,Riesling,HPSepicurean,36.0
+90,Red Blend,La Prevostura,24.0
+90,Malbec,Nieto Senetiner,30.0
+90,Barbera,Palladino,27.0
+90,Riesling,St. Urbans-Hof,22.0
+90,Nebbiolo,Villadoria,42.0
+90,Pinot Noir,Sineann,36.0
+90,Pinot Noir,Stemmler,44.0
+90,Pinot Gris,Sweet Cheeks,16.0
+84,Rosé,Domaine de l'Herré,12.0
+84,Malbec,Ded.Reckoning,20.0
+84,Pinot Noir-Gamay,Pierre Gruber,12.0
+84,Touriga Nacional,Quinta do Casal Branco,15.0
+84,Cabernet Sauvignon,Santa Julia,11.0
+84,Cabernet Sauvignon,Ehret,45.0
+84,Portuguese White,Global Wines,9.0
+84,Cabernet Sauvignon,Martinez & Martinez,34.0
+84,Chardonnay,Pierre Gruber,19.0
+84,Portuguese White,Valle da Fonte,10.0
+84,Portuguese White,Casal do Conde,
+84,Portuguese Red,Caves Campelo,10.0
+84,Syrah,Casa Montes,11.0
+84,Rosé,Domaine de Grange Neuve,12.0
+84,Rosé,Georges Vigouroux,11.0
+84,Pinot Noir,Pierre Gruber,19.0
+84,Arinto,Quinta do Casal Monteiro,12.0
+84,Portuguese White,Vadio Wines,22.0
+84,Portuguese Red,Vicente Faria Vinhos,13.0
+84,Bordeaux-style Red Blend,Spann Vineyards,27.0
+83,Champagne Blend,Valentin Bianchi,
+83,Sauvignon Blanc,Viejo Isaias,15.0
+83,Red Blend,Galante,25.0
+83,Zinfandel,Mazzocco,34.0
+83,Cabernet Sauvignon,Jeff Gordon,65.0
+83,Zinfandel,DeLorimier,38.0
+83,Castelão,Adega Cooperativa do Cartaxo,7.0
+83,White Blend,Naggiar,23.0
+83,Chardonnay,Pam's Cuties,4.0
+83,Cabernet Sauvignon,Casarena,12.0
+91,Cabernet Sauvignon,Diamond Creek,200.0
+91,Portuguese Red,Quinta de Lemos,25.0
+91,Red Blend,Milbrandt,55.0
+91,Cabernet Sauvignon,Black Stallion,75.0
+91,Cabernet Sauvignon,Brander,50.0
+91,Sauvignon Blanc,Wildhurst,14.0
+91,Sauvignon Blanc,Woodward Canyon,26.0
+91,Riesling,Domaine Schoffit,53.0
+91,Pinot Gris,FEL,25.0
+91,Riesling,Hubert Meyer,17.0
+91,Chardonnay,Lombardi,36.0
+91,Bordeaux-style Red Blend,Château Pey de Pont,19.0
+91,Zinfandel,Robert Biale,50.0
+91,Sauvignon Blanc,VML,23.0
+91,Syrah,Michael David,16.0
+91,Nebbiolo,Produttori del Barbaresco,65.0
+91,Bordeaux-style Red Blend,Château Alcée,
+91,Bordeaux-style Red Blend,Château Brethous,35.0
+91,Bordeaux-style Red Blend,Château Cantinot,50.0
+91,Bordeaux-style Red Blend,Château Clairac,16.0
+91,Bordeaux-style Red Blend,Château Joanin Bécot,15.0
+91,Bordeaux-style Red Blend,Château la Croix Saint-Pierre,16.0
+91,Malbec,Kiona,30.0
+91,Chenin Blanc,Kiona,15.0
+91,Gewürztraminer,Dowsett Family,22.0
+91,Zinfandel,Dry Creek Vineyard,30.0
+91,Cabernet Sauvignon,Clos du Val,80.0
+91,Red Blend,Columbia Crest,15.0
+91,Portuguese Red,Quinta Vale do Armo,20.0
+91,Red Blend,Santa Ema,85.0
+87,Grenache,Trinity Vineyards,28.0
+87,Barbera,Tsillan,28.0
+87,Godello,Valdesil,18.0
+87,Godello,Viña Somoza,20.0
+87,Chardonnay,Wellington,20.0
+87,Tempranillo Blend,Eduardo Garrido García,30.0
+87,Tempranillo Blend,García Figuero,20.0
+87,Cabernet Sauvignon,Leaping Horse,10.0
+87,Cabernet Sauvignon,Los Haroldos,20.0
+87,Riesling,Sawtooth,13.0
+87,Malbec,Bedell,50.0
+87,Tempranillo,Cinder,28.0
+87,Bordeaux-style Red Blend,Clos de Chacras,19.0
+87,Pinot Noir,Zepaltas,32.0
+87,Bordeaux-style Red Blend,Golden Ridge,24.0
+87,Pinot Noir,Fulcrum,54.0
+87,Riesling,Kendall-Jackson,13.0
+87,Zinfandel,Manifesto!,16.0
+87,Pinot Noir,Marimar Estate,44.0
+87,Zinfandel,McManis,11.0
+87,Chardonnay,Murphy-Goode,26.0
+87,Riesling,Original House Wine,11.0
+87,Bordeaux-style Red Blend,Château la Chapelle Despagnet,25.0
+87,Bordeaux-style Red Blend,Château la Roque de By,14.0
+87,Bordeaux-style Red Blend,Château Lacombe Noaillac,18.0
+87,Bordeaux-style Red Blend,Château Lafleur-Gazin,
+87,Bordeaux-style Red Blend,Château le Reysse,28.0
+87,Chardonnay,Chateau Ste. Michelle,11.0
+87,Red Blend,Caccia al Piano 1868,30.0
+87,Cabernet Sauvignon,CULT,28.0
+90,Pinot Noir,Anam Cara,55.0
+90,Riesling,Weingut Liebfrauenstift,18.0
+90,Chardonnay,Donkey & Goat,35.0
+90,Sauvignon,Elena Walch,25.0
+90,Gewürztraminer,Erste Neue,18.0
+90,Sauvignon,Erste Neue,19.0
+90,Cabernet Sauvignon,Juslyn Vineyards,125.0
+90,Pinot Grigio,Kellerei Kaltern Caldaro,25.0
+90,Merlot,Kendall-Jackson,28.0
+90,Meritage,Kings Mountain,60.0
+90,Spätburgunder,Grafen Neipperg,26.0
+90,Riesling,Leonard Kreusch,18.0
+90,Riesling,Leonard Kreusch,16.0
+90,Syrah,San Pedro,60.0
+90,Riesling,Prinz Salm,30.0
+90,Riesling,Dr. Pauly Bergweiler,30.0
+90,Pinot Noir,Black Kite,55.0
+90,Turbiana,CàMaiol,20.0
+90,Bordeaux-style Red Blend,Château Anthonic,
+90,Malbec,Château de Cénac,44.0
+90,Gamay,Château de Pierreux,30.0
+90,Cabernet Sauvignon,Coup de Foudre,95.0
+90,Portuguese Red,Dão Sul,
+90,Portuguese White,Dão Sul,
+90,Syrah,Viu Manent,25.0
+90,Pinot Grigio,Abbazia di Novacella,20.0
+90,Pinot Noir,Angel Vine,30.0
+90,Cabernet Sauvignon,Bardessono,55.0
+90,Chardonnay,Vie di Romans,42.0
+90,Cabernet Franc,Morandé,25.0
+88,Sparkling Blend,El Xamfrà,16.0
+88,Red Blend,Aljibes,20.0
+88,Sparkling Blend,Paul Cheneau,18.0
+88,Red Blend,Altesino,20.0
+88,Chardonnay,Anam Cara,22.0
+88,Tempranillo Blend,Bodegas Berceo,18.0
+88,Pinot Noir,Bruliam,46.0
+88,Pinot Noir,Carlton Cellars,45.0
+88,Red Blend,Compañia de Vinos del Atlántico,19.0
+88,Cabernet Sauvignon,Cornerstone,45.0
+88,Touriga Nacional,Delaforce,21.0
+88,Rosé,Domaine du Vistre,
+88,Pinot Gris,Eola Hills,13.0
+88,Portuguese Red,Herdade de São Miguel,8.0
+88,Bordeaux-style Red Blend,Jarvis,135.0
+88,Negrette,Le Roc,19.0
+88,Albariño,Licia,16.0
+88,Syrah,Matetic,28.0
+88,Red Blend,Olivi,35.0
+88,Tempranillo,Pietro Beconcini,22.0
+88,Red Blend,Poggio al Tesoro,20.0
+88,Portuguese Red,Porca de Murça,10.0
+88,Cabernet Sauvignon,Rutherford Grove,75.0
+88,Pugnitello,San Felice,50.0
+88,Pinot Gris,Siltstone,15.0
+88,Pinot Noir,Vidon Vineyard,40.0
+88,Pinot Noir,Walnut City WineWorks,40.0
+88,Pinot Noir,Walnut City WineWorks,20.0
+88,Scheurebe,Kühling-Gillot,23.0
+88,Red Blend,Domaine d'Arton,12.0
+88,Pinot Noir,Firestone,25.0
+88,Sauvignon Blanc,Gitton Père et Fils,23.0
+88,Rosé,Henri Bourgeois,25.0
+88,Portuguese Red,Herdade de São Miguel,8.0
+88,Red Blend,Kaiken,18.0
+88,Nebbiolo,Marchesi di Barolo,90.0
+88,Nebbiolo,Mario Marengo,58.0
+88,Chardonnay,Peter Paul Wines,40.0
+88,Red Blend,Proemio,25.0
+88,Pinot Noir,Roco,30.0
+88,Cabernet Franc,Saget la Perrière,
+88,Pinot Noir,Saintsbury,72.0
+88,Pinot Noir,Siduri,42.0
+88,Portuguese Red,Sogevinus,12.0
+88,Pinot Noir,Torii Mor,60.0
+88,Pinot Noir,Walt,65.0
+88,Rosado,Bodegas Ontañón,13.0
+88,Tempranillo Blend,Bodegas Vínícola Real,120.0
+88,Nebbiolo,Camparo,99.0
+88,Pinot Noir,Carr,50.0
+88,Nebbiolo,Cascina Chicco,75.0
+88,Bordeaux-style Red Blend,Château de Fonbel,
+88,Bordeaux-style Red Blend,Château Fleur de Plaisance,15.0
+88,Bordeaux-style Red Blend,Château Gauthier,22.0
+88,Bordeaux-style Red Blend,Château Haut Canteloup,35.0
+88,Bordeaux-style White Blend,Château Thieuley,15.0
+88,Chardonnay,Balletto,20.0
+87,Tempranillo,Muruve,10.0
+87,Pinot Noir,Dierberg,44.0
+87,Sauvignon Blanc,Domaine Roux,20.0
+90,Auxerrois,Paul Blanck,22.0
+90,Pinot Noir,Raptor Ridge,45.0
+90,Pinot Noir,René Muré,25.0
+90,Tempranillo,Arzuaga,40.0
+90,Syrah,Greenwood Ridge,29.0
+90,Bordeaux-style Red Blend,Halter Ranch,55.0
+90,Riesling,Johannishof,40.0
+90,Petit Verdot,Napa Cellars,24.0
+90,Red Blend,Paraduxx,48.0
+90,Cabernet Sauvignon,Peltier,60.0
+90,Red Blend,Pflüger,21.0
+90,Riesling,Weingut Hans Bausch,25.0
+90,Tempranillo,Alion,95.0
+90,Barbera,Boeger,18.0
+90,Carignane,Donkey & Goat,28.0
+90,Shiraz,Hewitson,25.0
+90,Zinfandel,Peachy Canyon,40.0
+90,Riesling,Schloss Vollrads,25.0
+90,Marsanne,Tahbilk,33.0
+90,Grillo,Cusumano,20.0
+90,Pinot Noir,Domaine Bart,
