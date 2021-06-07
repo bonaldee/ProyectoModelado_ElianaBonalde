@@ -24,3 +24,12 @@
 - Validar el modelo
 3. Creación del modelo
 
+___
+
+### Notebooks
+
+1. Preparación de datos [preparacion_datos](https://github.com/bonaldee/ProyectoModelado_ElianaBonalde/blob/main/codigo/preparacion_datos.ipynb)
+2. Ajuste de modelos [ajuste_modelos](https://github.com/bonaldee/ProyectoModelado_ElianaBonalde/blob/main/codigo/ajuste_modelos.ipynb)
+3. Modelo de regresión lineal [regresiones](https://github.com/bonaldee/ProyectoModelado_ElianaBonalde/blob/main/codigo/regresiones.ipynb)
+4. Sin definir []()
+5. Tarea propuesta [tarea](https://github.com/bonaldee/ProyectoModelado_ElianaBonalde/blob/main/codigo/tarea.ipynb)
