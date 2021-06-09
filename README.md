@@ -32,4 +32,4 @@ ___
 2. [Desarrollo de modelos](https://github.com/bonaldee/ProyectoModelado_ElianaBonalde/blob/main/codigo/modelos.ipynb)
 3. [Optimización y valoración de modelos](https://github.com/bonaldee/ProyectoModelado_ElianaBonalde/blob/main/codigo/optimizacion_validacion_evaluacion.ipynb)
 4. Sin definir []()
-5. Tarea propuesta [tarea](https://github.com/bonaldee/ProyectoModelado_ElianaBonalde/blob/main/codigo/tarea.ipynb)
+5. [Tarea propuesta](https://github.com/bonaldee/ProyectoModelado_ElianaBonalde/blob/main/codigo/tarea.ipynb)
