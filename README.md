@@ -22,7 +22,7 @@
 - Entretenamiento del modelo
 - Predicciones por medio del modelo
 - Validar el modelo
-3. Creación del modelo
+
 
 ___
 
@@ -31,5 +31,4 @@ ___
 1. [Preparación de datos](https://github.com/bonaldee/ProyectoModelado_ElianaBonalde/blob/main/codigo/preparacion_datos.ipynb)
 2. [Desarrollo de modelos](https://github.com/bonaldee/ProyectoModelado_ElianaBonalde/blob/main/codigo/modelos.ipynb)
 3. [Optimización y valoración de modelos](https://github.com/bonaldee/ProyectoModelado_ElianaBonalde/blob/main/codigo/optimizacion_validacion_evaluacion.ipynb)
-4. Sin definir []()
-5. [Tarea propuesta](https://github.com/bonaldee/ProyectoModelado_ElianaBonalde/blob/main/codigo/tarea.ipynb)
+4. [Tarea propuesta](https://github.com/bonaldee/ProyectoModelado_ElianaBonalde/blob/main/codigo/tarea.ipynb)
