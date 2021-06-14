@@ -32,3 +32,10 @@ ___
 2. [Desarrollo de modelos](https://github.com/bonaldee/ProyectoModelado_ElianaBonalde/blob/main/codigo/modelos.ipynb)
 3. [Optimización y valoración de modelos](https://github.com/bonaldee/ProyectoModelado_ElianaBonalde/blob/main/codigo/optimizacion_validacion_evaluacion.ipynb)
 4. [Tarea propuesta](https://github.com/bonaldee/ProyectoModelado_ElianaBonalde/blob/main/codigo/tarea.ipynb)
+
+___
+
+Material didáctico sobre Árboles de decisión
+
+[Una introducción visual al machine learning](http://www.r2d3.us/una-introduccion-visual-al-machine-learning-1/)
+Una introducción visual al machine learning
