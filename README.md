@@ -35,7 +35,7 @@ ___
 
 ___
 
-Material didáctico sobre Árboles de decisión
+### Material didáctico sobre Árboles de decisión
 
 [Una introducción visual al machine learning](http://www.r2d3.us/una-introduccion-visual-al-machine-learning-1/)
 Una introducción visual al machine learning
